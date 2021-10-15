@@ -1,0 +1,15 @@
+bin\Debug\Excel_Example.exe
+bin\Debug\Excel_Example.pdb
+bin\Debug\Interop.Excel.dll
+bin\Debug\Interop.Microsoft.Office.Core.dll
+bin\Debug\Interop.VBIDE.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.Excel.dll
+obj\Debug\Interop.Microsoft.Office.Core.dll
+obj\Debug\Interop.VBIDE.dll
+obj\Debug\Excel_Example.csproj.ResolveComReference.cache
+obj\Debug\Excel_Example.Form1.resources
+obj\Debug\Excel_Example.Properties.Resources.resources
+obj\Debug\Excel_Example.csproj.GenerateResource.Cache
+obj\Debug\Excel_Example.exe
+obj\Debug\Excel_Example.pdb

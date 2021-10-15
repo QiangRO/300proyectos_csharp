@@ -1,0 +1,22 @@
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\AnalogClock.DLL
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\HozouriComponent.DLL
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\VistaStyleTextBox.DLL
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+C:\Documents and Settings\Vahid\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\bin\Debug\AnalogClock.DLL
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\bin\Debug\HozouriComponent.DLL
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\bin\Debug\VistaStyleTextBox.DLL
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+G:\C#\Open-Rotate-Save\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache

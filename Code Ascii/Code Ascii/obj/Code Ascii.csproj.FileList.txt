@@ -1,0 +1,22 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Code_Ascii.Form1.resources
+obj\Debug\Code_Ascii.Properties.Resources.resources
+obj\Debug\Code Ascii.csproj.GenerateResource.Cache
+bin\Debug\Code Ascii.exe
+bin\Debug\Code Ascii.pdb
+obj\Debug\Code Ascii.exe
+obj\Debug\Code Ascii.pdb
+bin\Release\Code Ascii.exe
+bin\Release\Code Ascii.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Code_Ascii.Form1.resources
+obj\Release\Code_Ascii.Form2.resources
+obj\Release\Code_Ascii.Properties.Resources.resources
+obj\Release\Code Ascii.csproj.GenerateResource.Cache
+obj\Release\Code Ascii.exe
+obj\Release\Code Ascii.pdb
+bin\Debug\Code Ascii.exe.manifest
+bin\Debug\Code Ascii.application
+obj\Debug\Code Ascii.exe.manifest
+obj\Debug\Code Ascii.application
+bin\Debug\Code Ascii.exe.config

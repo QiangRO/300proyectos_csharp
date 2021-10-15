@@ -1,0 +1,8 @@
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\OpenCloseDrive\OpenCloseDrive\obj\Debug\ResolveAssemblyReference.cache
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\OpenCloseDrive\OpenCloseDrive\obj\Debug\OpenCloseDrive.Form1.resources
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\OpenCloseDrive\OpenCloseDrive\obj\Debug\OpenCloseDrive.Properties.Resources.resources
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\OpenCloseDrive\OpenCloseDrive\obj\Debug\OpenCloseDrive.csproj.GenerateResource.Cache
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\OpenCloseDrive\OpenCloseDrive\bin\Debug\OpenCloseDrive.exe
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\OpenCloseDrive\OpenCloseDrive\bin\Debug\OpenCloseDrive.pdb
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\OpenCloseDrive\OpenCloseDrive\obj\Debug\OpenCloseDrive.exe
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\OpenCloseDrive\OpenCloseDrive\obj\Debug\OpenCloseDrive.pdb

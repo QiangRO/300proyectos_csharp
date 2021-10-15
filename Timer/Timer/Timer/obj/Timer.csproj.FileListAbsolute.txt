@@ -1,0 +1,8 @@
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\Timer\Timer\bin\Debug\Timer.exe
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\Timer\Timer\bin\Debug\Timer.pdb
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\Timer\Timer\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\Timer\Timer\obj\Debug\Timer.Form1.resources
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\Timer\Timer\obj\Debug\Timer.exe
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\Timer\Timer\obj\Debug\Timer.pdb

@@ -1,0 +1,10 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Calculator User\Calculator User\Calculator User\bin\Debug\Calculator.resx
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Calculator User\Calculator User\Calculator User\bin\Debug\Calculator.cs
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Calculator User\Calculator User\Calculator User\bin\Debug\Calculator.Designer.cs
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Calculator User\Calculator User\Calculator User\bin\Debug\Calculator User.dll
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Calculator User\Calculator User\Calculator User\bin\Debug\Calculator User.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Calculator User\Calculator User\Calculator User\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Calculator User\Calculator User\Calculator User\obj\Debug\Calculator_User.Calculator.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Calculator User\Calculator User\Calculator User\obj\Debug\Calculator User.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Calculator User\Calculator User\Calculator User\obj\Debug\Calculator User.dll
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Calculator User\Calculator User\Calculator User\obj\Debug\Calculator User.pdb

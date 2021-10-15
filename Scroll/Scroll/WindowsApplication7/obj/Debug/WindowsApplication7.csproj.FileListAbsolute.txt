@@ -1,0 +1,2 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Scroll\Scroll\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Scroll\Scroll\WindowsApplication7\obj\Debug\WindowsApplication7.pdb

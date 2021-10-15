@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\XmlWorking.Form1.resources
+obj\Debug\XmlWorking.Properties.Resources.resources
+obj\Debug\XmlWorking.csproj.GenerateResource.Cache
+bin\Debug\XmlWorking.exe
+bin\Debug\XmlWorking.pdb
+obj\Debug\XmlWorking.exe
+obj\Debug\XmlWorking.pdb

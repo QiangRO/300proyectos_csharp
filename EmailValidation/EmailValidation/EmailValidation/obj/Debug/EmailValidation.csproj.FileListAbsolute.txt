@@ -1,0 +1,5 @@
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\EmailValidation\EmailValidation\bin\Debug\EmailValidation.dll
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\EmailValidation\EmailValidation\bin\Debug\EmailValidation.pdb
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\EmailValidation\EmailValidation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\EmailValidation\EmailValidation\obj\Debug\EmailValidation.dll
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\EmailValidation\EmailValidation\obj\Debug\EmailValidation.pdb

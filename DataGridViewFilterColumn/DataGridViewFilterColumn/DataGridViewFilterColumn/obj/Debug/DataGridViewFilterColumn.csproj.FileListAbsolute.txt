@@ -1,0 +1,8 @@
+D:\VS 2008\DataGridViewFilterColumn\DataGridViewFilterColumn\obj\Debug\ResolveAssemblyReference.cache
+D:\VS 2008\DataGridViewFilterColumn\DataGridViewFilterColumn\obj\Debug\DataGridViewFilterColumn.Form1.resources
+D:\VS 2008\DataGridViewFilterColumn\DataGridViewFilterColumn\obj\Debug\DataGridViewFilterColumn.Properties.Resources.resources
+D:\VS 2008\DataGridViewFilterColumn\DataGridViewFilterColumn\obj\Debug\DataGridViewFilterColumn.csproj.GenerateResource.Cache
+D:\VS 2008\DataGridViewFilterColumn\DataGridViewFilterColumn\bin\Debug\DataGridViewFilterColumn.exe
+D:\VS 2008\DataGridViewFilterColumn\DataGridViewFilterColumn\bin\Debug\DataGridViewFilterColumn.pdb
+D:\VS 2008\DataGridViewFilterColumn\DataGridViewFilterColumn\obj\Debug\DataGridViewFilterColumn.exe
+D:\VS 2008\DataGridViewFilterColumn\DataGridViewFilterColumn\obj\Debug\DataGridViewFilterColumn.pdb

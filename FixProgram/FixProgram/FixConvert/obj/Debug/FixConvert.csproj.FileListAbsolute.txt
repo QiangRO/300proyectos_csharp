@@ -1,0 +1,5 @@
+e:\FixProgram\FixProgram\FixConvert\obj\Debug\ResolveAssemblyReference.cache
+e:\FixProgram\FixProgram\FixConvert\bin\Debug\FixConvert.dll
+e:\FixProgram\FixProgram\FixConvert\bin\Debug\FixConvert.pdb
+e:\FixProgram\FixProgram\FixConvert\obj\Debug\FixConvert.dll
+e:\FixProgram\FixProgram\FixConvert\obj\Debug\FixConvert.pdb

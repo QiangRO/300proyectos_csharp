@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Alarm_Clock__CS_.Main.resources
+obj\Debug\Alarm_Clock__CS_.Properties.Resources.resources
+obj\Debug\Alarm Clock (CS).csproj.GenerateResource.Cache
+bin\Debug\Alarm Clock (CS).exe
+bin\Debug\Alarm Clock (CS).pdb
+obj\Debug\Alarm Clock (CS).exe
+obj\Debug\Alarm Clock (CS).pdb
+bin\Release\Alarm Clock (CS).exe
+bin\Release\Alarm Clock (CS).pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Alarm_Clock__CS_.Main.resources
+obj\Release\Alarm_Clock__CS_.Properties.Resources.resources
+obj\Release\Alarm Clock (CS).csproj.GenerateResource.Cache
+obj\Release\Alarm Clock (CS).exe
+obj\Release\Alarm Clock (CS).pdb

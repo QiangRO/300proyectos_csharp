@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteLib", "RemoteLib.csproj", "{C748C47B-3081-43DF-B1DA-E0A196295099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteServ", "..\RemoteServ\RemoteServ.csproj", "{56C5F18E-3E88-49CF-84E0-836C309FAFD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteClient", "..\RemoteClient\RemoteClient.csproj", "{6161AA68-AEEA-44FA-870E-4EA451C5A1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C748C47B-3081-43DF-B1DA-E0A196295099}.Debug.ActiveCfg = Debug|.NET
+		{C748C47B-3081-43DF-B1DA-E0A196295099}.Debug.Build.0 = Debug|.NET
+		{C748C47B-3081-43DF-B1DA-E0A196295099}.Release.ActiveCfg = Release|.NET
+		{C748C47B-3081-43DF-B1DA-E0A196295099}.Release.Build.0 = Release|.NET
+		{56C5F18E-3E88-49CF-84E0-836C309FAFD8}.Debug.ActiveCfg = Debug|.NET
+		{56C5F18E-3E88-49CF-84E0-836C309FAFD8}.Debug.Build.0 = Debug|.NET
+		{56C5F18E-3E88-49CF-84E0-836C309FAFD8}.Release.ActiveCfg = Release|.NET
+		{56C5F18E-3E88-49CF-84E0-836C309FAFD8}.Release.Build.0 = Release|.NET
+		{6161AA68-AEEA-44FA-870E-4EA451C5A1AE}.Debug.ActiveCfg = Debug|.NET
+		{6161AA68-AEEA-44FA-870E-4EA451C5A1AE}.Debug.Build.0 = Debug|.NET
+		{6161AA68-AEEA-44FA-870E-4EA451C5A1AE}.Release.ActiveCfg = Release|.NET
+		{6161AA68-AEEA-44FA-870E-4EA451C5A1AE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

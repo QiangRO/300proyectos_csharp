@@ -1,0 +1,14 @@
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\IPBox\IPBox\IPBox\bin\Debug\IPBox.dll
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\IPBox\IPBox\IPBox\bin\Debug\IPBox.pdb
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\IPBox\IPBox\IPBox\obj\Debug\ResolveAssemblyReference.cache
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\IPBox\IPBox\IPBox\obj\Debug\IpBox.IpBox.resources
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\IPBox\IPBox\IPBox\obj\Debug\IPBox.csproj.GenerateResource.Cache
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\IPBox\IPBox\IPBox\obj\Debug\IPBox.dll
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\IPBox\IPBox\IPBox\obj\Debug\IPBox.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\BarnameNevis1\IPBox\IPBox\IPBox\bin\Debug\IPBox.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\BarnameNevis1\IPBox\IPBox\IPBox\bin\Debug\IPBox.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\BarnameNevis1\IPBox\IPBox\IPBox\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\BarnameNevis1\IPBox\IPBox\IPBox\obj\Debug\IpBox.IpBox.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\BarnameNevis1\IPBox\IPBox\IPBox\obj\Debug\IPBox.csproj.GenerateResource.Cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\BarnameNevis1\IPBox\IPBox\IPBox\obj\Debug\IPBox.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\BarnameNevis1\IPBox\IPBox\IPBox\obj\Debug\IPBox.pdb

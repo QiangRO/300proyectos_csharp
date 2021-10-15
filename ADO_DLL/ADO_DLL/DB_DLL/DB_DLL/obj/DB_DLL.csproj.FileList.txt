@@ -1,0 +1,5 @@
+bin\Debug\DB_DLL.dll
+bin\Debug\DB_DLL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DB_DLL.dll
+obj\Debug\DB_DLL.pdb

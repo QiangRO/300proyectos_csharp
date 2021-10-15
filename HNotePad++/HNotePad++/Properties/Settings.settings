@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HNotePad__.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FontOfTextFiles" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 9.75pt</Value>
+    </Setting>
+    <Setting Name="IsWordWrap" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RightToLeft" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Print_Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 8.25pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="Print_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

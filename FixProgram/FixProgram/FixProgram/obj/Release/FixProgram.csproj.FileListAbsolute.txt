@@ -1,0 +1,10 @@
+e:\FixProgram\FixProgram\FixProgram\bin\Release\FixProgram.exe
+e:\FixProgram\FixProgram\FixProgram\bin\Release\FixProgram.pdb
+e:\FixProgram\FixProgram\FixProgram\bin\Release\FixConvert.dll
+e:\FixProgram\FixProgram\FixProgram\bin\Release\FixConvert.pdb
+e:\FixProgram\FixProgram\FixProgram\obj\Release\ResolveAssemblyReference.cache
+e:\FixProgram\FixProgram\FixProgram\obj\Release\FixProgram.Form1.resources
+e:\FixProgram\FixProgram\FixProgram\obj\Release\FixProgram.Properties.Resources.resources
+e:\FixProgram\FixProgram\FixProgram\obj\Release\FixProgram.csproj.GenerateResource.Cache
+e:\FixProgram\FixProgram\FixProgram\obj\Release\FixProgram.exe
+e:\FixProgram\FixProgram\FixProgram\obj\Release\FixProgram.pdb

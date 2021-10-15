@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Autoplay_Virus_Remover.Properties.Resources.resources
+obj\Debug\Autoplay Virus Remover.csproj.GenerateResource.Cache
+obj\Debug\Autoplay_Virus_Remover.frmmain.resources
+obj\Debug\Autoplay_Virus_Remover.FrmScan.resources
+bin\Debug\My Simple AntiVirus 1.0.exe
+bin\Debug\My Simple AntiVirus 1.0.pdb
+obj\Debug\My Simple AntiVirus 1.0.exe
+obj\Debug\My Simple AntiVirus 1.0.pdb
+obj\Debug\Autoplay_Virus_Remover.FrmAbout.resources

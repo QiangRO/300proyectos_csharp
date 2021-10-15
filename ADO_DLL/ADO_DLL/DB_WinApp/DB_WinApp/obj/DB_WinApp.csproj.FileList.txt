@@ -1,0 +1,10 @@
+bin\Debug\DB_WinApp.exe
+bin\Debug\DB_WinApp.pdb
+bin\Debug\DB_DLL.dll
+bin\Debug\DB_DLL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DB_WinApp.mainFrm.resources
+obj\Debug\DB_WinApp.Properties.Resources.resources
+obj\Debug\DB_WinApp.csproj.GenerateResource.Cache
+obj\Debug\DB_WinApp.exe
+obj\Debug\DB_WinApp.pdb

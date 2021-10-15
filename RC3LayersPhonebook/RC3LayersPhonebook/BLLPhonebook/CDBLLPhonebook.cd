@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLLBooks.Entities.clsBaseEntity" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\clsBaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLLBooks.Entities.clsPersonEntity" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAgAAAAAEAAAAAAAAAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>Entities\clsPersonEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLLBooks.Providers.clsPersonProvider" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAIACAAAAAEIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Providers\clsPersonProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="BLLBooks.Providers.IProvider&lt;T, TPK&gt;" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Providers\IProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Calibri" Size="8.25" />
+</ClassDiagram>

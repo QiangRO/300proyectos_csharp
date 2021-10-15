@@ -1,0 +1,16 @@
+obj\Debug\GroupFileRenamer 2.0.exe
+obj\Debug\GroupFileRenamer 2.0.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GroupFileRenamer_2._.Form1.resources
+obj\Debug\GroupFileRenamer_2._0.Properties.Resources.resources
+obj\Debug\GroupFileRenamer 2.0.csproj.GenerateResource.Cache
+bin\Debug\GroupFileRenamer 2.0.exe
+bin\Debug\GroupFileRenamer 2.0.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\GroupFileRenamer_2._.Form1.resources
+obj\Release\GroupFileRenamer_2._0.Properties.Resources.resources
+obj\Release\GroupFileRenamer 2.0.csproj.GenerateResource.Cache
+bin\Release\GroupFileRenamer 2.0.exe
+bin\Release\GroupFileRenamer 2.0.pdb
+obj\Release\GroupFileRenamer 2.0.exe
+obj\Release\GroupFileRenamer 2.0.pdb

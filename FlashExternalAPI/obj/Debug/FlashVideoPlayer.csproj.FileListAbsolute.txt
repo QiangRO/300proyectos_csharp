@@ -1,0 +1,12 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\obj\Debug\FlashVideoPlayer.csproj.ResolveComReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\bin\Debug\FLVPlayer.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\bin\Debug\FLVPlayer.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\obj\Debug\Vml.FLVPlayer.FLVPlayer.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\obj\Debug\FlashVideoPlayer.csproj.GenerateResource.Cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\obj\Debug\FLVPlayer.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\88.3\flashexternalapi2\FlashExternalAPI\obj\Debug\FLVPlayer.pdb

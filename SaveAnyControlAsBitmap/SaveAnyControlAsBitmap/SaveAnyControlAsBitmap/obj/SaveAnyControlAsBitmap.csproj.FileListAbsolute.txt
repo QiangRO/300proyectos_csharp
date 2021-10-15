@@ -1,0 +1,8 @@
+C:\Documents and Settings\Ali Noorian\My Documents\Visual Studio 2005\Projects\SaveAnyControlAsBitmap\SaveAnyControlAsBitmap\bin\Debug\SaveAnyControlAsBitmap.exe
+C:\Documents and Settings\Ali Noorian\My Documents\Visual Studio 2005\Projects\SaveAnyControlAsBitmap\SaveAnyControlAsBitmap\bin\Debug\SaveAnyControlAsBitmap.pdb
+C:\Documents and Settings\Ali Noorian\My Documents\Visual Studio 2005\Projects\SaveAnyControlAsBitmap\SaveAnyControlAsBitmap\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ali Noorian\My Documents\Visual Studio 2005\Projects\SaveAnyControlAsBitmap\SaveAnyControlAsBitmap\obj\Debug\SaveAnyControlAsBitmap.Form1.resources
+C:\Documents and Settings\Ali Noorian\My Documents\Visual Studio 2005\Projects\SaveAnyControlAsBitmap\SaveAnyControlAsBitmap\obj\Debug\SaveAnyControlAsBitmap.Properties.Resources.resources
+C:\Documents and Settings\Ali Noorian\My Documents\Visual Studio 2005\Projects\SaveAnyControlAsBitmap\SaveAnyControlAsBitmap\obj\Debug\SaveAnyControlAsBitmap.csproj.GenerateResource.Cache
+C:\Documents and Settings\Ali Noorian\My Documents\Visual Studio 2005\Projects\SaveAnyControlAsBitmap\SaveAnyControlAsBitmap\obj\Debug\SaveAnyControlAsBitmap.exe
+C:\Documents and Settings\Ali Noorian\My Documents\Visual Studio 2005\Projects\SaveAnyControlAsBitmap\SaveAnyControlAsBitmap\obj\Debug\SaveAnyControlAsBitmap.pdb

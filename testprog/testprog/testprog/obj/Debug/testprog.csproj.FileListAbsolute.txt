@@ -1,0 +1,8 @@
+E:\Documents and Settings\Mohsen\My Documents\Visual Studio 2008\Projects\testprog\testprog\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Mohsen\My Documents\Visual Studio 2008\Projects\testprog\testprog\obj\Debug\testprog.Form1.resources
+E:\Documents and Settings\Mohsen\My Documents\Visual Studio 2008\Projects\testprog\testprog\obj\Debug\testprog.Properties.Resources.resources
+E:\Documents and Settings\Mohsen\My Documents\Visual Studio 2008\Projects\testprog\testprog\obj\Debug\testprog.csproj.GenerateResource.Cache
+E:\Documents and Settings\Mohsen\My Documents\Visual Studio 2008\Projects\testprog\testprog\bin\Debug\testprog.exe
+E:\Documents and Settings\Mohsen\My Documents\Visual Studio 2008\Projects\testprog\testprog\bin\Debug\testprog.pdb
+E:\Documents and Settings\Mohsen\My Documents\Visual Studio 2008\Projects\testprog\testprog\obj\Debug\testprog.exe
+E:\Documents and Settings\Mohsen\My Documents\Visual Studio 2008\Projects\testprog\testprog\obj\Debug\testprog.pdb

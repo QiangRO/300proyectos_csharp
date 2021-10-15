@@ -1,0 +1,16 @@
+C:\Documents and Settings\Ya Allah\My Documents\Visual Studio 2008\Projects\Image Converter\Image Converter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ya Allah\My Documents\Visual Studio 2008\Projects\Image Converter\Image Converter\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Ya Allah\My Documents\Visual Studio 2008\Projects\Image Converter\Image Converter\obj\Debug\Image Converter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Ya Allah\My Documents\Visual Studio 2008\Projects\Image Converter\Image Converter\bin\Debug\Image Converter By Salar Ashgi.exe
+C:\Documents and Settings\Ya Allah\My Documents\Visual Studio 2008\Projects\Image Converter\Image Converter\bin\Debug\Image Converter By Salar Ashgi.pdb
+C:\Documents and Settings\Ya Allah\My Documents\Visual Studio 2008\Projects\Image Converter\Image Converter\obj\Debug\SalarSoft.Properties.Resources.resources
+C:\Documents and Settings\Ya Allah\My Documents\Visual Studio 2008\Projects\Image Converter\Image Converter\obj\Debug\Image Converter By Salar Ashgi.exe
+C:\Documents and Settings\Ya Allah\My Documents\Visual Studio 2008\Projects\Image Converter\Image Converter\obj\Debug\Image Converter By Salar Ashgi.pdb
+E:\C#\Image Converter\Source\Image Converter\obj\Debug\Image Converter By Salar Ashgi.exe
+E:\C#\Image Converter\Source\Image Converter\obj\Debug\Image Converter By Salar Ashgi.pdb
+E:\C#\Image Converter\Source\Image Converter\bin\Debug\Image Converter By Salar Ashgi.exe
+E:\C#\Image Converter\Source\Image Converter\bin\Debug\Image Converter By Salar Ashgi.pdb
+E:\C#\Image Converter\Source\Image Converter\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\Image Converter\Source\Image Converter\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\Image Converter\Source\Image Converter\obj\Debug\SalarSoft.Properties.Resources.resources
+E:\C#\Image Converter\Source\Image Converter\obj\Debug\Image Converter.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Properties.Resources.resources
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.csproj.GenerateResource.Cache
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+D:\Documents and Settings\وحید\My Documents\Visual Studio 2005\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+E:\Scroll\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+E:\Scroll\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+E:\Scroll\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+E:\Scroll\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+E:\Scroll\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+E:\Scroll\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+E:\Scroll\WindowsApplication7\obj\Debug\WindowsApplication7.Properties.Resources.resources
+E:\Scroll\WindowsApplication7\obj\Debug\WindowsApplication7.csproj.GenerateResource.Cache

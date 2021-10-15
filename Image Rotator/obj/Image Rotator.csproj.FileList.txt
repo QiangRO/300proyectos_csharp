@@ -1,0 +1,8 @@
+bin\Debug\Image Rotator.exe
+bin\Debug\Image Rotator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Image_Rotator.Form1.resources
+obj\Debug\Image_Rotator.Properties.Resources.resources
+obj\Debug\Image Rotator.csproj.GenerateResource.Cache
+obj\Debug\Image Rotator.exe
+obj\Debug\Image Rotator.pdb

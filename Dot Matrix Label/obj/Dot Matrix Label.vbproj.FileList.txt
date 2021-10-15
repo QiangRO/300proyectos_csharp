@@ -1,0 +1,10 @@
+obj\Debug\Dot Matrix Label.pdb
+bin\Dot Matrix Label.exe
+bin\Dot Matrix Label.pdb
+bin\Dot Matrix Label.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Dot_Matrix_Label.Form1.resources
+obj\Debug\Dot_Matrix_Label.lbDotMatrix.resources
+obj\Debug\Dot Matrix Label.vbproj.GenerateResource.Cache
+obj\Debug\Dot Matrix Label.exe
+obj\Debug\Dot Matrix Label.xml

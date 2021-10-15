@@ -1,0 +1,24 @@
+C:\Documents and Settings\MHZ\My Documents\Visual Studio 2008\Projects\Wave\Wave\bin\Debug\Wave.exe
+C:\Documents and Settings\MHZ\My Documents\Visual Studio 2008\Projects\Wave\Wave\bin\Debug\Wave.pdb
+C:\Documents and Settings\MHZ\My Documents\Visual Studio 2008\Projects\Wave\Wave\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MHZ\My Documents\Visual Studio 2008\Projects\Wave\Wave\obj\Debug\Wave.Form1.resources
+C:\Documents and Settings\MHZ\My Documents\Visual Studio 2008\Projects\Wave\Wave\obj\Debug\Wave.Properties.Resources.resources
+C:\Documents and Settings\MHZ\My Documents\Visual Studio 2008\Projects\Wave\Wave\obj\Debug\Wave.csproj.GenerateResource.Cache
+C:\Documents and Settings\MHZ\My Documents\Visual Studio 2008\Projects\Wave\Wave\obj\Debug\Wave.exe
+C:\Documents and Settings\MHZ\My Documents\Visual Studio 2008\Projects\Wave\Wave\obj\Debug\Wave.pdb
+D:\MyProject\Wave\Wave\bin\Debug\Wave.exe
+D:\MyProject\Wave\Wave\bin\Debug\Wave.pdb
+D:\MyProject\Wave\Wave\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\Wave\Wave\obj\Debug\Wave.Form1.resources
+D:\MyProject\Wave\Wave\obj\Debug\Wave.Properties.Resources.resources
+D:\MyProject\Wave\Wave\obj\Debug\Wave.csproj.GenerateResource.Cache
+D:\MyProject\Wave\Wave\obj\Debug\Wave.exe
+D:\MyProject\Wave\Wave\obj\Debug\Wave.pdb
+D:\Project\MyProject\Wave\Wave\obj\Debug\Wave.exe
+D:\Project\MyProject\Wave\Wave\obj\Debug\Wave.pdb
+D:\Project\MyProject\Wave\Wave\bin\Debug\Wave.exe
+D:\Project\MyProject\Wave\Wave\bin\Debug\Wave.pdb
+D:\Project\MyProject\Wave\Wave\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\MyProject\Wave\Wave\obj\Debug\Wave.Form1.resources
+D:\Project\MyProject\Wave\Wave\obj\Debug\Wave.Properties.Resources.resources
+D:\Project\MyProject\Wave\Wave\obj\Debug\Wave.csproj.GenerateResource.Cache

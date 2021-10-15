@@ -1,0 +1,7 @@
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\BusinessLogic\bin\Debug\BusinessLogic.dll
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\BusinessLogic\bin\Debug\BusinessLogic.pdb
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\BusinessLogic\bin\Debug\DataAccess.dll
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\BusinessLogic\bin\Debug\DataAccess.pdb
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\BusinessLogic\obj\Debug\BusinessLogic.dll
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\BusinessLogic\obj\Debug\BusinessLogic.pdb

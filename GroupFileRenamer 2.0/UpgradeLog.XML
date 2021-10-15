@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="GroupFileRenamer 2.0">
+</Property><Property Name="Solution File" Value="F:\C#.Net\C# Programs\IE Programs\88.3.28\GroupFileRenamer 2.0\GroupFileRenamer 2.0.sln">
+</Property><Property Name="Date" Value="2005/01/01">
+</Property><Property Name="Time" Value="10:06 ق.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="GroupFileRenamer 2.0" Source="GroupFileRenamer 2.0\GroupFileRenamer 2.0.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GroupFileRenamer 2.0" Source="GroupFileRenamer 2.0\GroupFileRenamer 2.0.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GroupFileRenamer 2.0.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GroupFileRenamer 2.0.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GroupFileRenamer 2.0" Source="GroupFileRenamer 2.0\GroupFileRenamer 2.0.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

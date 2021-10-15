@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DraggableForm.FormBase.resources
+obj\Debug\DraggableForm.FrmMain.resources
+obj\Debug\Hospital.csproj.GenerateResource.Cache
+obj\Debug\DraggableForm.FrmHome.resources
+obj\Debug\DraggableForm.FrmPatient.resources
+obj\Debug\DraggableForm.FrmPatientHome.resources
+obj\Debug\DraggableForm.FrmFindMemberShip.resources
+bin\Debug\Membership.exe
+bin\Debug\Membership.pdb
+obj\Debug\Membership.Properties.Resources.resources
+obj\Debug\Membership.exe
+obj\Debug\Membership.pdb
+obj\Debug\Membership.Forms.FrmMessage.resources

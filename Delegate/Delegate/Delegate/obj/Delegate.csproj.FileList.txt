@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Delegate.frmMain.resources
+obj\Debug\Delegate.Properties.Resources.resources
+obj\Debug\Delegate.csproj.GenerateResource.Cache
+bin\Debug\Delegate.exe
+bin\Debug\Delegate.pdb
+obj\Debug\Delegate.exe
+obj\Debug\Delegate.pdb

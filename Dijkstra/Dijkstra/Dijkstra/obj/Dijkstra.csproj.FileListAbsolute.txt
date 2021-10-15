@@ -1,0 +1,24 @@
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra\Dijkstra\obj\Debug\ResolveAssemblyReference.cache
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.Main.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.Properties.Resources.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csproj.GenerateResource.Cache
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra - Graphical\Dijkstra\obj\Debug\Dijkstra.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra - Graphical\Dijkstra\obj\Debug\Dijkstra.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra - Graphical\Dijkstra\bin\Debug\Dijkstra.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra - Graphical\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra - Graphical\Dijkstra\obj\Debug\ResolveAssemblyReference.cache
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra - Graphical\Dijkstra\obj\Debug\Dijkstra.Main.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra - Graphical\Dijkstra\obj\Debug\Dijkstra.Properties.Resources.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Dijkstra - Graphical\Dijkstra\obj\Debug\Dijkstra.csproj.GenerateResource.Cache
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Dijkstra\Dijkstra\obj\Debug\ResolveAssemblyReference.cache
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.Main.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.Properties.Resources.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csproj.GenerateResource.Cache

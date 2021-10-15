@@ -1,0 +1,8 @@
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication7\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Properties.Resources.resources
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.csproj.GenerateResource.Cache
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb

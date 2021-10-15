@@ -1,0 +1,10 @@
+E:\c# project\TestBTHDigitClock\TestBTHDigitClock\bin\Debug\TestBTHDigitClock.exe
+E:\c# project\TestBTHDigitClock\TestBTHDigitClock\bin\Debug\TestBTHDigitClock.pdb
+E:\c# project\TestBTHDigitClock\TestBTHDigitClock\bin\Debug\BthDigitClock.dll
+E:\c# project\TestBTHDigitClock\TestBTHDigitClock\bin\Debug\BthDigitClock.pdb
+E:\c# project\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\ResolveAssemblyReference.cache
+E:\c# project\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\TestBTHDigitClock.Form1.resources
+E:\c# project\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\TestBTHDigitClock.Properties.Resources.resources
+E:\c# project\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\TestBTHDigitClock.csproj.GenerateResource.Cache
+E:\c# project\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\TestBTHDigitClock.exe
+E:\c# project\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\TestBTHDigitClock.pdb

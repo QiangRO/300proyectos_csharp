@@ -1,0 +1,8 @@
+obj\Debug\mashinhesab.exe
+obj\Debug\mashinhesab.pdb
+bin\Debug\mashinhesab.exe
+bin\Debug\mashinhesab.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\mashinhesab.Form1.resources
+obj\Debug\mashinhesab.Properties.Resources.resources
+obj\Debug\mashinhesab.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+E:\Documents and Settings\Ahmad\My Documents\Visual Studio 2008\Projects\Create New Table in DB by Code\Create New Table in DB by Code\bin\Debug\Create New Table in DB by Code.exe
+E:\Documents and Settings\Ahmad\My Documents\Visual Studio 2008\Projects\Create New Table in DB by Code\Create New Table in DB by Code\bin\Debug\Create New Table in DB by Code.pdb
+E:\Documents and Settings\Ahmad\My Documents\Visual Studio 2008\Projects\Create New Table in DB by Code\Create New Table in DB by Code\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Ahmad\My Documents\Visual Studio 2008\Projects\Create New Table in DB by Code\Create New Table in DB by Code\obj\Debug\Create_New_Table_in_DB_by_Code.About.resources
+E:\Documents and Settings\Ahmad\My Documents\Visual Studio 2008\Projects\Create New Table in DB by Code\Create New Table in DB by Code\obj\Debug\Create_New_Table_in_DB_by_Code.Form1.resources
+E:\Documents and Settings\Ahmad\My Documents\Visual Studio 2008\Projects\Create New Table in DB by Code\Create New Table in DB by Code\obj\Debug\Create_New_Table_in_DB_by_Code.Properties.Resources.resources
+E:\Documents and Settings\Ahmad\My Documents\Visual Studio 2008\Projects\Create New Table in DB by Code\Create New Table in DB by Code\obj\Debug\Create New Table in DB by Code.csproj.GenerateResource.Cache
+E:\Documents and Settings\Ahmad\My Documents\Visual Studio 2008\Projects\Create New Table in DB by Code\Create New Table in DB by Code\obj\Debug\Create New Table in DB by Code.exe
+E:\Documents and Settings\Ahmad\My Documents\Visual Studio 2008\Projects\Create New Table in DB by Code\Create New Table in DB by Code\obj\Debug\Create New Table in DB by Code.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CreateNewTableinDBbyCode_src\Create New Table in DB by Code\bin\Debug\Create New Table in DB by Code.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CreateNewTableinDBbyCode_src\Create New Table in DB by Code\bin\Debug\Create New Table in DB by Code.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CreateNewTableinDBbyCode_src\Create New Table in DB by Code\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CreateNewTableinDBbyCode_src\Create New Table in DB by Code\obj\Debug\Create_New_Table_in_DB_by_Code.About.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CreateNewTableinDBbyCode_src\Create New Table in DB by Code\obj\Debug\Create_New_Table_in_DB_by_Code.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CreateNewTableinDBbyCode_src\Create New Table in DB by Code\obj\Debug\Create_New_Table_in_DB_by_Code.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CreateNewTableinDBbyCode_src\Create New Table in DB by Code\obj\Debug\Create New Table in DB by Code.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CreateNewTableinDBbyCode_src\Create New Table in DB by Code\obj\Debug\Create New Table in DB by Code.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CreateNewTableinDBbyCode_src\Create New Table in DB by Code\obj\Debug\Create New Table in DB by Code.pdb

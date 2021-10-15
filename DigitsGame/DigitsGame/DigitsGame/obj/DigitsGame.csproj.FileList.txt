@@ -1,0 +1,9 @@
+bin\Debug\DigitsGame.exe
+bin\Debug\DigitsGame.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DigitsGame.Properties.Resources.resources
+obj\Debug\DigitsGame.csproj.GenerateResource.Cache
+obj\Debug\DigitsGame.exe
+obj\Debug\DigitsGame.pdb
+obj\Debug\DigitsGame.frmAbout.resources
+obj\Debug\DigitsGame.frmMain.resources

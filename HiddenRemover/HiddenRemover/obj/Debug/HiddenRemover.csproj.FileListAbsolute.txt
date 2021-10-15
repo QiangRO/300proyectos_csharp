@@ -1,0 +1,8 @@
+C:\Documents and Settings\Hamidreza\My Documents\Visual Studio 2008\Projects\HiddenRemover\HiddenRemover\bin\Debug\HiddenRemover.exe
+C:\Documents and Settings\Hamidreza\My Documents\Visual Studio 2008\Projects\HiddenRemover\HiddenRemover\bin\Debug\HiddenRemover.pdb
+C:\Documents and Settings\Hamidreza\My Documents\Visual Studio 2008\Projects\HiddenRemover\HiddenRemover\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hamidreza\My Documents\Visual Studio 2008\Projects\HiddenRemover\HiddenRemover\obj\Debug\HiddenRemover.Form1.resources
+C:\Documents and Settings\Hamidreza\My Documents\Visual Studio 2008\Projects\HiddenRemover\HiddenRemover\obj\Debug\HiddenRemover.Properties.Resources.resources
+C:\Documents and Settings\Hamidreza\My Documents\Visual Studio 2008\Projects\HiddenRemover\HiddenRemover\obj\Debug\HiddenRemover.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hamidreza\My Documents\Visual Studio 2008\Projects\HiddenRemover\HiddenRemover\obj\Debug\HiddenRemover.exe
+C:\Documents and Settings\Hamidreza\My Documents\Visual Studio 2008\Projects\HiddenRemover\HiddenRemover\obj\Debug\HiddenRemover.pdb

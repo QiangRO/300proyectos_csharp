@@ -1,0 +1,4 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CSharpDataBase\CSharpDataBase\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CSharpDataBase\CSharpDataBase\obj\Debug\CSharpDataBase.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CSharpDataBase\CSharpDataBase\obj\Debug\CSharpDataBase.frmReports.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CSharpDataBase\CSharpDataBase\obj\Debug\CSharpDataBase.csproj.GenerateResource.Cache

@@ -1,0 +1,2 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Acdc\WindowsApplication1\obj\Release\WindowsApplication1.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Acdc\WindowsApplication1\obj\Release\WindowsApplication1.pdb

@@ -1,0 +1,9 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ColorFinder\bin\Debug\ColorFinder.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ColorFinder\bin\Debug\ColorFinder.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ColorFinder\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ColorFinder\obj\Debug\ColorFinder.AboutForm.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ColorFinder\obj\Debug\ColorFinder.MainForm.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ColorFinder\obj\Debug\ColorFinder.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ColorFinder\obj\Debug\ColorFinder.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ColorFinder\obj\Debug\ColorFinder.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ColorFinder\obj\Debug\ColorFinder.pdb

@@ -1,0 +1,7 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\BusinessLogic\bin\Debug\DataAccess.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\BusinessLogic\obj\Debug\BusinessLogic.pdb

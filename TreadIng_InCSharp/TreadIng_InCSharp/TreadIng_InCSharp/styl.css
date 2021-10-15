@@ -1,0 +1,40 @@
+.TopFrmBG {
+	background-image: url(logo.jpg);
+	background-repeat: no-repeat;
+}
+.LeftFrmText {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	color: #660000;
+	text-align: right;
+}
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #0099CC;
+	text-decoration: none;
+}
+.lnks {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 20px;
+}
+.parafStart {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	padding-right: 5px;
+	padding-top: 20px;
+}
+
+
+a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}

@@ -1,0 +1,8 @@
+obj\Debug\HuffmanAlgorithm.exe
+obj\Debug\HuffmanAlgorithm.pdb
+bin\Debug\HuffmanAlgorithm.exe
+bin\Debug\HuffmanAlgorithm.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HuffmanAlgorithm.Main.resources
+obj\Debug\HuffmanAlgorithm.Properties.Resources.resources
+obj\Debug\HuffmanAlgorithm.csproj.GenerateResource.Cache

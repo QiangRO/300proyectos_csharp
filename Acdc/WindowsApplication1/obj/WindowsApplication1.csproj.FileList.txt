@@ -1,0 +1,2 @@
+obj\Release\WindowsApplication1.exe
+obj\Release\WindowsApplication1.pdb

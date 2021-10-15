@@ -1,0 +1,5 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\SharpZipLib\bin\Debug\SharpZipLib.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\SharpZipLib\bin\Debug\SharpZipLib.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\SharpZipLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\SharpZipLib\obj\Debug\SharpZipLib.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\SharpZipLib\obj\Debug\SharpZipLib.pdb

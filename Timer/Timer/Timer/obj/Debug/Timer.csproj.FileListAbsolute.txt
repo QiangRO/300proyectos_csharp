@@ -1,0 +1,8 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Timer\Timer\Timer\obj\Debug\Timer.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Timer\Timer\Timer\obj\Debug\Timer.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Timer\Timer\Timer\bin\Debug\Timer.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Timer\Timer\Timer\bin\Debug\Timer.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Timer\Timer\Timer\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Timer\Timer\Timer\obj\Debug\Timer.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Timer\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Timer\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache

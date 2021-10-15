@@ -1,0 +1,8 @@
+E:\Visual Studio\Project\Move Ico\WindowsFormsApplication46\bin\Release\Move Ico.exe
+E:\Visual Studio\Project\Move Ico\WindowsFormsApplication46\bin\Release\Move Ico.pdb
+E:\Visual Studio\Project\Move Ico\WindowsFormsApplication46\obj\Release\ResolveAssemblyReference.cache
+E:\Visual Studio\Project\Move Ico\WindowsFormsApplication46\obj\Release\WindowsFormsApplication46.Form1.resources
+E:\Visual Studio\Project\Move Ico\WindowsFormsApplication46\obj\Release\WindowsFormsApplication46.Properties.Resources.resources
+E:\Visual Studio\Project\Move Ico\WindowsFormsApplication46\obj\Release\WindowsFormsApplication46.csproj.GenerateResource.Cache
+E:\Visual Studio\Project\Move Ico\WindowsFormsApplication46\obj\Release\Move Ico.exe
+E:\Visual Studio\Project\Move Ico\WindowsFormsApplication46\obj\Release\Move Ico.pdb

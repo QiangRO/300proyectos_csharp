@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AddToDic.AddOneByOne.resources
+obj\Debug\AddToDic.Properties.Resources.resources
+obj\Debug\AddToDic.csproj.GenerateResource.Cache
+bin\Debug\AddToDic.exe
+bin\Debug\AddToDic.pdb
+obj\Debug\AddToDic.exe
+obj\Debug\AddToDic.pdb

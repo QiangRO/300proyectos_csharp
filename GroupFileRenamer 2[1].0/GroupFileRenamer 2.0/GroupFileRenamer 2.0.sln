@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupFileRenamer 2.0", "GroupFileRenamer 2.0\GroupFileRenamer 2.0.csproj", "{2A35F6F6-74DB-4574-AA60-DF34B0B19236}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer Group File Renamer 2.0", "Installer Group File Renamer 2.0\Installer Group File Renamer 2.0.vdproj", "{4A93BD0F-FA02-46E9-8355-B3721313D2B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A35F6F6-74DB-4574-AA60-DF34B0B19236}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{2A35F6F6-74DB-4574-AA60-DF34B0B19236}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{2A35F6F6-74DB-4574-AA60-DF34B0B19236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A35F6F6-74DB-4574-AA60-DF34B0B19236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A93BD0F-FA02-46E9-8355-B3721313D2B6}.Debug|Any CPU.ActiveCfg = Release
+		{4A93BD0F-FA02-46E9-8355-B3721313D2B6}.Debug|Any CPU.Build.0 = Release
+		{4A93BD0F-FA02-46E9-8355-B3721313D2B6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

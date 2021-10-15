@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixProgram", "FixProgram\FixProgram.csproj", "{1AA74667-7224-4D67-8E1F-7E4AE4EBBF13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixExpression", "FixConvert\FixExpression.csproj", "{DE470C63-DA87-4B44-98EF-2840ADB615C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA74667-7224-4D67-8E1F-7E4AE4EBBF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA74667-7224-4D67-8E1F-7E4AE4EBBF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA74667-7224-4D67-8E1F-7E4AE4EBBF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA74667-7224-4D67-8E1F-7E4AE4EBBF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE470C63-DA87-4B44-98EF-2840ADB615C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE470C63-DA87-4B44-98EF-2840ADB615C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE470C63-DA87-4B44-98EF-2840ADB615C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE470C63-DA87-4B44-98EF-2840ADB615C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

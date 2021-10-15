@@ -1,0 +1,8 @@
+obj\Debug\Dijkstra.exe
+obj\Debug\Dijkstra.pdb
+bin\Debug\Dijkstra.exe
+bin\Debug\Dijkstra.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Dijkstra.Main.resources
+obj\Debug\Dijkstra.Properties.Resources.resources
+obj\Debug\Dijkstra.csproj.GenerateResource.Cache

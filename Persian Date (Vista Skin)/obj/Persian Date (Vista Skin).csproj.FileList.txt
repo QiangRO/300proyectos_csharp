@@ -1,0 +1,16 @@
+bin\Debug\Persian Date (Vista Skin).exe
+bin\Debug\Persian Date (Vista Skin).pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Persian_Date__Vista_Skin_.Form1.resources
+obj\Debug\Persian_Date__Vista_Skin_.Properties.Resources.resources
+obj\Debug\Persian Date (Vista Skin).csproj.GenerateResource.Cache
+obj\Debug\Persian Date (Vista Skin).exe
+obj\Debug\Persian Date (Vista Skin).pdb
+bin\Release\Persian Date (Vista Skin).exe
+bin\Release\Persian Date (Vista Skin).pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Persian_Date__Vista_Skin_.Form1.resources
+obj\Release\Persian_Date__Vista_Skin_.Properties.Resources.resources
+obj\Release\Persian Date (Vista Skin).csproj.GenerateResource.Cache
+obj\Release\Persian Date (Vista Skin).exe
+obj\Release\Persian Date (Vista Skin).pdb

@@ -1,0 +1,67 @@
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\obj\Debug\project_2.Form1.resources
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\obj\Debug\project_2.Properties.Resources.resources
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\obj\Debug\project 2.csproj.GenerateResource.Cache
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\bin\Debug\project 2.exe
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\bin\Debug\project 2.pdb
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\obj\Debug\project 2.exe
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\obj\Debug\project 2.pdb
+G:\karamouzi\project 2\project 2\project 2\obj\Debug\project 2.exe
+G:\karamouzi\project 2\project 2\project 2\obj\Debug\project 2.pdb
+G:\karamouzi\project 2\project 2\project 2\obj\Debug\ResolveAssemblyReference.cache
+G:\karamouzi\project 2\project 2\project 2\obj\Debug\project_2.Form1.resources
+G:\karamouzi\project 2\project 2\project 2\obj\Debug\project_2.Properties.Resources.resources
+G:\karamouzi\project 2\project 2\project 2\obj\Debug\project 2.csproj.GenerateResource.Cache
+G:\karamouzi\project 2\project 2\project 2\bin\Debug\project 2.exe
+G:\karamouzi\project 2\project 2\project 2\bin\Debug\project 2.pdb
+G:\karamouzi\project 2\project 2\project 2\obj\Debug\project_2.Form2.resources
+G:\karamouzi\project 2\project 2\project 2\bin\Debug\project 2.exe.config
+G:\c# programs\project 2\project 2\project 2\bin\Debug\project 2.exe.config
+G:\c# programs\project 2\project 2\project 2\obj\Debug\project 2.exe
+G:\c# programs\project 2\project 2\project 2\obj\Debug\project 2.pdb
+G:\c# programs\project 2\project 2\project 2\bin\Debug\project 2.exe
+G:\c# programs\project 2\project 2\project 2\bin\Debug\project 2.pdb
+G:\c# programs\project 2\project 2\project 2\obj\Debug\ResolveAssemblyReference.cache
+G:\c# programs\project 2\project 2\project 2\obj\Debug\project_2.Form1.resources
+G:\c# programs\project 2\project 2\project 2\obj\Debug\project_2.Form2.resources
+G:\c# programs\project 2\project 2\project 2\obj\Debug\project_2.Properties.Resources.resources
+G:\c# programs\project 2\project 2\project 2\obj\Debug\project 2.csproj.GenerateResource.Cache
+C:\Users\Yalda\Desktop\Sara Fallah\project 2\project 2\project 2\bin\Debug\project 2.exe.config
+C:\Users\Yalda\Desktop\Sara Fallah\project 2\project 2\project 2\obj\Debug\project 2.exe
+C:\Users\Yalda\Desktop\Sara Fallah\project 2\project 2\project 2\obj\Debug\project 2.pdb
+C:\Users\Yalda\Desktop\Sara Fallah\project 2\project 2\project 2\bin\Debug\project 2.exe
+C:\Users\Yalda\Desktop\Sara Fallah\project 2\project 2\project 2\bin\Debug\project 2.pdb
+C:\Users\Yalda\Desktop\Sara Fallah\project 2\project 2\project 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yalda\Desktop\Sara Fallah\project 2\project 2\project 2\obj\Debug\project_2.Form1.resources
+C:\Users\Yalda\Desktop\Sara Fallah\project 2\project 2\project 2\obj\Debug\project_2.Form2.resources
+C:\Users\Yalda\Desktop\Sara Fallah\project 2\project 2\project 2\obj\Debug\project_2.Properties.Resources.resources
+C:\Users\Yalda\Desktop\Sara Fallah\project 2\project 2\project 2\obj\Debug\project 2.csproj.GenerateResource.Cache
+F:\Sara Fallah\project 2\project 2\project 2\bin\Debug\project 2.exe.config
+F:\Sara Fallah\project 2\project 2\project 2\obj\Debug\project 2.exe
+F:\Sara Fallah\project 2\project 2\project 2\obj\Debug\project 2.pdb
+C:\Users\Borna\Desktop\project 2\project 2\bin\Debug\project 2.exe.config
+C:\Users\Borna\Desktop\project 2\project 2\obj\Debug\project 2.pdb
+C:\Users\Borna\Desktop\project 2\project 2\bin\Debug\project 2.exe
+C:\Users\Borna\Desktop\project 2\project 2\bin\Debug\project 2.pdb
+C:\Users\Borna\Desktop\project 2\project 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Borna\Desktop\project 2\project 2\obj\Debug\project_2.Form1.resources
+C:\Users\Borna\Desktop\project 2\project 2\obj\Debug\project_2.Form2.resources
+C:\Users\Borna\Desktop\project 2\project 2\obj\Debug\project_2.Properties.Resources.resources
+C:\Users\Borna\Desktop\project 2\project 2\obj\Debug\project 2.csproj.GenerateResource.Cache
+C:\Users\Borna\Desktop\project 2\project 2\obj\Debug\project 2.exe
+C:\Users\Borna\Desktop\C# - project ,crystal\project 2\bin\Debug\project 2.exe.config
+C:\Users\Borna\Desktop\C# - project ,crystal\project 2\obj\Debug\project 2.exe
+C:\Users\Borna\Desktop\C# - project ,crystal\project 2\obj\Debug\project 2.pdb
+C:\Users\Borna\Desktop\C# - project ,crystal\project 2\bin\Debug\project 2.exe
+C:\Users\Borna\Desktop\C# - project ,crystal\project 2\bin\Debug\project 2.pdb
+C:\Users\Borna\Desktop\C# - project ,crystal\project 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Borna\Desktop\C# - project ,crystal\project 2\obj\Debug\project_2.Form1.resources
+C:\Users\Borna\Desktop\C# - project ,crystal\project 2\obj\Debug\project_2.Form2.resources
+C:\Users\Borna\Desktop\C# - project ,crystal\project 2\obj\Debug\project_2.Properties.Resources.resources
+C:\Users\Borna\Desktop\C# - project ,crystal\project 2\obj\Debug\project 2.csproj.GenerateResource.Cache
+E:\Documents and Settings\Ehsan Avr\Desktop\88-7-2\C# - project ,crystal\project 2\bin\Debug\project 2.exe.config
+E:\Documents and Settings\Ehsan Avr\Desktop\88-7-2\C# - project ,crystal\project 2\obj\Debug\project 2.exe
+E:\Documents and Settings\Ehsan Avr\Desktop\88-7-2\C# - project ,crystal\project 2\obj\Debug\project 2.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\C# - project ,crystal\project 2\bin\Debug\project 2.exe.config
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\C# - project ,crystal\project 2\obj\Debug\project 2.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\C# - project ,crystal\project 2\obj\Debug\project 2.pdb

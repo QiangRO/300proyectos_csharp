@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPhonebook" targetNamespace="http://tempuri.org/dsPhonebook.xsd" xmlns:mstns="http://tempuri.org/dsPhonebook.xsd" xmlns="http://tempuri.org/dsPhonebook.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="constrPhonebook" IsAppSettingsProperty="true" Modifier="Assembly" Name="constrPhonebook (Settings)" PropertyReference="ApplicationSettings.DALPhonebook.Properties.Settings.GlobalReference.Default.constrPhonebook" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPhonebook" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsPhonebook" msprop:Generator_DataSetName="dsPhonebook" msprop:EnableTableAdapterManager="True">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Persons" msprop:Generator_UserTableName="Persons" msprop:Generator_RowDeletedName="PersonsRowDeleted" msprop:Generator_RowChangedName="PersonsRowChanged" msprop:Generator_RowClassName="PersonsRow" msprop:Generator_RowChangingName="PersonsRowChanging" msprop:Generator_RowEvArgName="PersonsRowChangeEvent" msprop:Generator_RowEvHandlerName="PersonsRowChangeEventHandler" msprop:Generator_TableClassName="PersonsDataTable" msprop:Generator_TableVarName="tablePersons" msprop:Generator_RowDeletingName="PersonsRowDeleting" msprop:Generator_TablePropName="Persons">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="lastName" msprop:Generator_UserColumnName="lastName" msprop:Generator_ColumnVarNameInTable="columnlastName" msprop:Generator_ColumnPropNameInRow="lastName" msprop:Generator_ColumnPropNameInTable="lastNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tel" msprop:Generator_UserColumnName="tel" msprop:Generator_ColumnVarNameInTable="columntel" msprop:Generator_ColumnPropNameInRow="tel" msprop:Generator_ColumnPropNameInTable="telColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="address" msprop:Generator_UserColumnName="address" msprop:Generator_ColumnVarNameInTable="columnaddress" msprop:Generator_ColumnPropNameInRow="address" msprop:Generator_ColumnPropNameInTable="addressColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

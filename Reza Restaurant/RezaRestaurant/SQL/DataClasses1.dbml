@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="RRDB" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\SQL\RRDB.mdf;Integrated Security=True;User Instance=True" SettingsObjectName="RezaRestaurant.Properties.Settings" SettingsPropertyName="DatabaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Setting" Member="Settings">
+    <Type Name="Setting">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="value" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Users" Member="Users">
+    <Type Name="User">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="pass" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[اقلام فروخته شده]" Member="اقلام_فروخته_شدهs">
+    <Type Name="اقلام_فروخته_شده">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FacotrID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="[نام غذا]" Member="نام_غذا" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="تعداد" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[قیمت یک واحد]" Member="قیمت_یک_واحد" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.غذاها" Member="غذاهاs">
+    <Type Name="غذاها">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[نام غذا]" Member="نام_غذا" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[کد غذا]" Member="کد_غذا" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="قیمت" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.فاکتورها" Member="فاکتورهاs">
+    <Type Name="فاکتورها">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[شماره فاکتور]" Member="شماره_فاکتور" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[شماره میز]" Member="شماره_میز" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[مبلغ فاکتور]" Member="مبلغ_فاکتور" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="[نوع فاکتور]" Member="نوع_فاکتور" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[تاریخ ثبت]" Member="تاریخ_ثبت" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

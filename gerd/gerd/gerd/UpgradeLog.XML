@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="gerd">
+</Property><Property Name="Solution File" Value="F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\gerd\gerd\gerd\gerd.sln">
+</Property><Property Name="Date" Value="Sunday, January 09, 2005">
+</Property><Property Name="Time" Value="3:56:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="gerd" Source="gerd.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="gerd" Source="gerd.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="gerd" Source="gerd.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

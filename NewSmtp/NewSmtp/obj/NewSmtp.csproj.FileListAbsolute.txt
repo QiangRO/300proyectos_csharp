@@ -1,0 +1,32 @@
+C:\Users\HOME\Documents\Visual Studio 2005\Projects\NewSmtp\NewSmtp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HOME\Documents\Visual Studio 2005\Projects\NewSmtp\NewSmtp\obj\Debug\NewSmtp.Form1.resources
+C:\Users\HOME\Documents\Visual Studio 2005\Projects\NewSmtp\NewSmtp\obj\Debug\NewSmtp.Properties.Resources.resources
+C:\Users\HOME\Documents\Visual Studio 2005\Projects\NewSmtp\NewSmtp\obj\Debug\NewSmtp.csproj.GenerateResource.Cache
+C:\Users\HOME\Documents\Visual Studio 2005\Projects\NewSmtp\NewSmtp\bin\Debug\NewSmtp.exe
+C:\Users\HOME\Documents\Visual Studio 2005\Projects\NewSmtp\NewSmtp\bin\Debug\NewSmtp.pdb
+C:\Users\HOME\Documents\Visual Studio 2005\Projects\NewSmtp\NewSmtp\obj\Debug\NewSmtp.exe
+C:\Users\HOME\Documents\Visual Studio 2005\Projects\NewSmtp\NewSmtp\obj\Debug\NewSmtp.pdb
+E:\Documents and Settings\Saghar\Desktop\NewSmtp\NewSmtp\bin\Debug\NewSmtp.exe
+E:\Documents and Settings\Saghar\Desktop\NewSmtp\NewSmtp\bin\Debug\NewSmtp.pdb
+E:\Documents and Settings\Saghar\Desktop\NewSmtp\NewSmtp\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Saghar\Desktop\NewSmtp\NewSmtp\obj\Debug\NewSmtp.Form1.resources
+E:\Documents and Settings\Saghar\Desktop\NewSmtp\NewSmtp\obj\Debug\NewSmtp.Properties.Resources.resources
+E:\Documents and Settings\Saghar\Desktop\NewSmtp\NewSmtp\obj\Debug\NewSmtp.csproj.GenerateResource.Cache
+E:\Documents and Settings\Saghar\Desktop\NewSmtp\NewSmtp\obj\Debug\NewSmtp.exe
+E:\Documents and Settings\Saghar\Desktop\NewSmtp\NewSmtp\obj\Debug\NewSmtp.pdb
+C:\Users\HOME\Desktop\NewSmtp\NewSmtp\obj\Debug\NewSmtp.exe
+C:\Users\HOME\Desktop\NewSmtp\NewSmtp\obj\Debug\NewSmtp.pdb
+C:\Users\HOME\Desktop\NewSmtp\NewSmtp\bin\Debug\NewSmtp.exe
+C:\Users\HOME\Desktop\NewSmtp\NewSmtp\bin\Debug\NewSmtp.pdb
+C:\Users\HOME\Desktop\NewSmtp\NewSmtp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\NewSmtp\NewSmtp\obj\Debug\NewSmtp.Form1.resources
+C:\Users\HOME\Desktop\NewSmtp\NewSmtp\obj\Debug\NewSmtp.Properties.Resources.resources
+C:\Users\HOME\Desktop\NewSmtp\NewSmtp\obj\Debug\NewSmtp.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\Mail\NewSmtp\NewSmtp\obj\Debug\NewSmtp.exe
+C:\Users\HOME\Desktop\Mail\NewSmtp\NewSmtp\obj\Debug\NewSmtp.pdb
+C:\Users\HOME\Desktop\Mail\NewSmtp\NewSmtp\bin\Debug\NewSmtp.exe
+C:\Users\HOME\Desktop\Mail\NewSmtp\NewSmtp\bin\Debug\NewSmtp.pdb
+C:\Users\HOME\Desktop\Mail\NewSmtp\NewSmtp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\Mail\NewSmtp\NewSmtp\obj\Debug\NewSmtp.Form1.resources
+C:\Users\HOME\Desktop\Mail\NewSmtp\NewSmtp\obj\Debug\NewSmtp.Properties.Resources.resources
+C:\Users\HOME\Desktop\Mail\NewSmtp\NewSmtp\obj\Debug\NewSmtp.csproj.GenerateResource.Cache

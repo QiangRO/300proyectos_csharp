@@ -1,0 +1,8 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\GroupFileRenamer 2[1].0\GroupFileRenamer 2.0\GroupFileRenamer 2.0\obj\Release\GroupFileRenamer 2.0.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\GroupFileRenamer 2[1].0\GroupFileRenamer 2.0\GroupFileRenamer 2.0\obj\Release\GroupFileRenamer 2.0.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\GroupFileRenamer 2[1].0\GroupFileRenamer 2.0\GroupFileRenamer 2.0\bin\Release\GroupFileRenamer 2.0.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\GroupFileRenamer 2[1].0\GroupFileRenamer 2.0\GroupFileRenamer 2.0\bin\Release\GroupFileRenamer 2.0.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\GroupFileRenamer 2[1].0\GroupFileRenamer 2.0\GroupFileRenamer 2.0\obj\Release\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\GroupFileRenamer 2[1].0\GroupFileRenamer 2.0\GroupFileRenamer 2.0\obj\Release\GroupFileRenamer_2._.Form1.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\GroupFileRenamer 2[1].0\GroupFileRenamer 2.0\GroupFileRenamer 2.0\obj\Release\GroupFileRenamer_2._0.Properties.Resources.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\GroupFileRenamer 2[1].0\GroupFileRenamer 2.0\GroupFileRenamer 2.0\obj\Release\GroupFileRenamer 2.0.csproj.GenerateResource.Cache

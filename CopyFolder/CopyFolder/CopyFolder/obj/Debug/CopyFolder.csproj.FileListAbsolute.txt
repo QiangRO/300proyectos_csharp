@@ -1,0 +1,8 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CopyFolder\CopyFolder\CopyFolder\bin\Debug\CopyFolder.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CopyFolder\CopyFolder\CopyFolder\bin\Debug\CopyFolder.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CopyFolder\CopyFolder\CopyFolder\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CopyFolder\CopyFolder\CopyFolder\obj\Debug\CopyFolder.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CopyFolder\CopyFolder\CopyFolder\obj\Debug\CopyFolder.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CopyFolder\CopyFolder\CopyFolder\obj\Debug\CopyFolder.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CopyFolder\CopyFolder\CopyFolder\obj\Debug\CopyFolder.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\CopyFolder\CopyFolder\CopyFolder\obj\Debug\CopyFolder.pdb

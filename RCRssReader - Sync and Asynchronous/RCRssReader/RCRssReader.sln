@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{D609FD46-25C8-47B0-9EED-B02DDF9576EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCRssReader", "RCRssReader\RCRssReader.csproj", "{77648266-2274-4542-A7B8-E05804F770CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D609FD46-25C8-47B0-9EED-B02DDF9576EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D609FD46-25C8-47B0-9EED-B02DDF9576EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D609FD46-25C8-47B0-9EED-B02DDF9576EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D609FD46-25C8-47B0-9EED-B02DDF9576EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77648266-2274-4542-A7B8-E05804F770CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77648266-2274-4542-A7B8-E05804F770CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77648266-2274-4542-A7B8-E05804F770CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77648266-2274-4542-A7B8-E05804F770CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

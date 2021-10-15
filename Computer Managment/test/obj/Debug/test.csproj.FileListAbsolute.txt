@@ -1,0 +1,10 @@
+D:\Projects\C# Project\test\test\obj\Debug\test.exe
+D:\Projects\C# Project\test\test\obj\Debug\test.pdb
+D:\Projects\C# Project\test\test\bin\Debug\test.exe
+D:\Projects\C# Project\test\test\bin\Debug\test.pdb
+D:\Projects\C# Project\test\test\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\C# Project\test\test\obj\Debug\test.Form1.resources
+D:\Projects\C# Project\test\test\obj\Debug\test.Properties.Resources.resources
+D:\Projects\C# Project\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Computer Managment\test\obj\Debug\test.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Computer Managment\test\obj\Debug\test.pdb

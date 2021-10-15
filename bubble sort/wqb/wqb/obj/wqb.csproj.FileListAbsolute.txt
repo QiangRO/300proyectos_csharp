@@ -1,0 +1,8 @@
+C:\Documents and Settings\TH\My Documents\Visual Studio 2005\Projects\wqb\wqb\obj\Debug\wqb.exe
+C:\Documents and Settings\TH\My Documents\Visual Studio 2005\Projects\wqb\wqb\obj\Debug\wqb.pdb
+C:\Documents and Settings\TH\My Documents\Visual Studio 2005\Projects\wqb\wqb\bin\Debug\wqb.exe
+C:\Documents and Settings\TH\My Documents\Visual Studio 2005\Projects\wqb\wqb\bin\Debug\wqb.pdb
+C:\Documents and Settings\TH\My Documents\Visual Studio 2005\Projects\wqb\wqb\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TH\My Documents\Visual Studio 2005\Projects\wqb\wqb\obj\Debug\wqb.Form1.resources
+C:\Documents and Settings\TH\My Documents\Visual Studio 2005\Projects\wqb\wqb\obj\Debug\wqb.Properties.Resources.resources
+C:\Documents and Settings\TH\My Documents\Visual Studio 2005\Projects\wqb\wqb\obj\Debug\wqb.csproj.GenerateResource.Cache

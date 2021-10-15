@@ -1,0 +1,4 @@
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\gerd\gerd\gerd\obj\Debug\gerd.exe
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\gerd\gerd\gerd\obj\Debug\gerd.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\BarnameNevis1\gerd\gerd\gerd\obj\Debug\gerd.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\BarnameNevis1\gerd\gerd\gerd\obj\Debug\gerd.pdb

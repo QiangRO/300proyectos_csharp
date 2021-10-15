@@ -1,0 +1,24 @@
+C:\Documents and Settings\yashar\Desktop\Download Sample\Download Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yashar\Desktop\Download Sample\Download Sample\obj\Debug\Download_Sample.Form1.resources
+C:\Documents and Settings\yashar\Desktop\Download Sample\Download Sample\obj\Debug\Download_Sample.Properties.Resources.resources
+C:\Documents and Settings\yashar\Desktop\Download Sample\Download Sample\obj\Debug\Download Sample.csproj.GenerateResource.Cache
+C:\Documents and Settings\yashar\Desktop\Download Sample\Download Sample\bin\Debug\Download Sample.exe
+C:\Documents and Settings\yashar\Desktop\Download Sample\Download Sample\bin\Debug\Download Sample.pdb
+C:\Documents and Settings\yashar\Desktop\Download Sample\Download Sample\obj\Debug\Download Sample.exe
+C:\Documents and Settings\yashar\Desktop\Download Sample\Download Sample\obj\Debug\Download Sample.pdb
+E:\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\Download Sample.exe
+E:\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\Download Sample.pdb
+E:\My Source in Csharp\internet program Source\Download Sample\Download Sample\bin\Debug\Download Sample.exe
+E:\My Source in Csharp\internet program Source\Download Sample\Download Sample\bin\Debug\Download Sample.pdb
+E:\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\ResolveAssemblyReference.cache
+E:\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\Download_Sample.Form1.resources
+E:\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\Download_Sample.Properties.Resources.resources
+E:\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\Download Sample.csproj.GenerateResource.Cache
+F:\Yashar Csharp Complate\yashar source\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\Download Sample.exe
+F:\Yashar Csharp Complate\yashar source\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\Download Sample.pdb
+F:\Yashar Csharp Complate\yashar source\My Source in Csharp\internet program Source\Download Sample\Download Sample\bin\Debug\Download Sample.exe
+F:\Yashar Csharp Complate\yashar source\My Source in Csharp\internet program Source\Download Sample\Download Sample\bin\Debug\Download Sample.pdb
+F:\Yashar Csharp Complate\yashar source\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\ResolveAssemblyReference.cache
+F:\Yashar Csharp Complate\yashar source\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\Download_Sample.Form1.resources
+F:\Yashar Csharp Complate\yashar source\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\Download_Sample.Properties.Resources.resources
+F:\Yashar Csharp Complate\yashar source\My Source in Csharp\internet program Source\Download Sample\Download Sample\obj\Debug\Download Sample.csproj.GenerateResource.Cache

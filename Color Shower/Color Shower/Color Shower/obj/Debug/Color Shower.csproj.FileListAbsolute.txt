@@ -1,0 +1,16 @@
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Color Shower\Color Shower\bin\Debug\Color Shower.exe
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Color Shower\Color Shower\bin\Debug\Color Shower.pdb
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Color Shower\Color Shower\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Color Shower\Color Shower\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Color Shower\Color Shower\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Color Shower\Color Shower\obj\Debug\Color Shower.csproj.GenerateResource.Cache
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Color Shower\Color Shower\obj\Debug\Color Shower.exe
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Color Shower\Color Shower\obj\Debug\Color Shower.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Color Shower\Color Shower\Color Shower\obj\Debug\Color Shower.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Color Shower\Color Shower\Color Shower\obj\Debug\Color Shower.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Color Shower\Color Shower\Color Shower\bin\Debug\Color Shower.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Color Shower\Color Shower\Color Shower\bin\Debug\Color Shower.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Color Shower\Color Shower\Color Shower\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Color Shower\Color Shower\Color Shower\obj\Debug\WindowsFormsApplication1.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Color Shower\Color Shower\Color Shower\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Color Shower\Color Shower\Color Shower\obj\Debug\Color Shower.csproj.GenerateResource.Cache

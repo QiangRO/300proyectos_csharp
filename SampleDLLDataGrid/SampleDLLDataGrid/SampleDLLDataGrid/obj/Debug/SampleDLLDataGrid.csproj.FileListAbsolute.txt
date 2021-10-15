@@ -1,0 +1,7 @@
+D:\VS 2008\SampleDLLDataGrid\SampleDLLDataGrid\bin\Debug\SampleDLLDataGrid.dll
+D:\VS 2008\SampleDLLDataGrid\SampleDLLDataGrid\bin\Debug\SampleDLLDataGrid.pdb
+D:\VS 2008\SampleDLLDataGrid\SampleDLLDataGrid\bin\Debug\SampleDLLDataGrid.dll.CodeAnalysisLog.xml
+D:\VS 2008\SampleDLLDataGrid\SampleDLLDataGrid\bin\Debug\SampleDLLDataGrid.dll.lastcodeanalysissucceeded
+D:\VS 2008\SampleDLLDataGrid\SampleDLLDataGrid\obj\Debug\ResolveAssemblyReference.cache
+D:\VS 2008\SampleDLLDataGrid\SampleDLLDataGrid\obj\Debug\SampleDLLDataGrid.dll
+D:\VS 2008\SampleDLLDataGrid\SampleDLLDataGrid\obj\Debug\SampleDLLDataGrid.pdb

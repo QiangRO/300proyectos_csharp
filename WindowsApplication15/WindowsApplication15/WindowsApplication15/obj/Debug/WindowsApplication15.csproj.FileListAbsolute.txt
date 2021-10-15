@@ -1,0 +1,9 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\WindowsApplication15\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\WindowsApplication15\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\WindowsApplication15\WindowsApplication15\WindowsApplication15\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\WindowsApplication15\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.change_pass.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\WindowsApplication15\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.login.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\WindowsApplication15\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\WindowsApplication15\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\WindowsApplication15\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\WindowsApplication15\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.pdb

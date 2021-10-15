@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Calculator Form.csproj.GenerateResource.Cache
+bin\Debug\Calculator Form.dll
+bin\Debug\Calculator Form.pdb
+obj\Debug\Calculator Form.dll
+obj\Debug\Calculator Form.pdb
+obj\Debug\Calculator_User.Calculator.resources

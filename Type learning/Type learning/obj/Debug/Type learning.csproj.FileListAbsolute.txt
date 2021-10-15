@@ -1,0 +1,19 @@
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\ResolveAssemblyReference.cache
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\Type_learning.Form1.resources
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\Type_learning.Properties.Resources.resources
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\Type learning.csproj.GenerateResource.Cache
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\bin\Debug\Type learning.exe
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\bin\Debug\Type learning.pdb
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\Type learning.exe
+J:\Programing\C Sharp\My Projects\Type learning\Type learning\Type learning\obj\Debug\Type learning.pdb
+I:\C#\C#\Type learning\Type learning\obj\Debug\Type learning.exe
+I:\C#\C#\Type learning\Type learning\obj\Debug\Type learning.pdb
+O:\Alejandro\Descargas\300 C# Project\Type learning\Type learning\bin\Debug\Type learning.exe
+O:\Alejandro\Descargas\300 C# Project\Type learning\Type learning\bin\Debug\Type learning.pdb
+O:\Alejandro\Descargas\300 C# Project\Type learning\Type learning\obj\Debug\Type learning.csprojAssemblyReference.cache
+O:\Alejandro\Descargas\300 C# Project\Type learning\Type learning\obj\Debug\Type_learning.Form1.resources
+O:\Alejandro\Descargas\300 C# Project\Type learning\Type learning\obj\Debug\Type_learning.Properties.Resources.resources
+O:\Alejandro\Descargas\300 C# Project\Type learning\Type learning\obj\Debug\Type learning.csproj.GenerateResource.cache
+O:\Alejandro\Descargas\300 C# Project\Type learning\Type learning\obj\Debug\Type learning.csproj.CoreCompileInputs.cache
+O:\Alejandro\Descargas\300 C# Project\Type learning\Type learning\obj\Debug\Type learning.exe
+O:\Alejandro\Descargas\300 C# Project\Type learning\Type learning\obj\Debug\Type learning.pdb

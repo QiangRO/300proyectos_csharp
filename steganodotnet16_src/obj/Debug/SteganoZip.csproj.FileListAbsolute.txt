@@ -1,0 +1,10 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\bin\Debug\SteganoZip.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\bin\Debug\SteganoZip.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\bin\Debug\SharpZipLib.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\bin\Debug\SharpZipLib.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\obj\Debug\SteganoZip.MainForm.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\obj\Debug\SteganoZip.Properties.Resources.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\obj\Debug\SteganoZip.csproj.GenerateResource.Cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\obj\Debug\SteganoZip.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\steganodotnet16_src\obj\Debug\SteganoZip.pdb

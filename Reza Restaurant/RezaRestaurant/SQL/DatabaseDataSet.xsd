@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DatabaseDataSet" targetNamespace="http://tempuri.org/DatabaseDataSet.xsd" xmlns:mstns="http://tempuri.org/DatabaseDataSet.xsd" xmlns="http://tempuri.org/DatabaseDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DatabaseConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DatabaseConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.RezaRestaurant.Properties.Settings.GlobalReference.Default.DatabaseConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DatabaseDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DatabaseDataSet" msprop:Generator_DataSetName="DatabaseDataSet" msprop:EnableTableAdapterManager="True">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable_فاکتور" msprop:Generator_UserTableName="DataTable_فاکتور" msprop:Generator_RowDeletedName="DataTable_فاکتورRowDeleted" msprop:Generator_TableClassName="DataTable_فاکتورDataTable" msprop:Generator_RowChangedName="DataTable_فاکتورRowChanged" msprop:Generator_RowClassName="DataTable_فاکتورRow" msprop:Generator_RowChangingName="DataTable_فاکتورRowChanging" msprop:Generator_RowEvArgName="DataTable_فاکتورRowChangeEvent" msprop:Generator_RowEvHandlerName="DataTable_فاکتورRowChangeEventHandler" msprop:Generator_TablePropName="DataTable_فاکتور" msprop:Generator_TableVarName="tableDataTable_فاکتور" msprop:Generator_RowDeletingName="DataTable_فاکتورRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="شماره_x0020_ردیف" msprop:Generator_UserColumnName="شماره ردیف" msprop:Generator_ColumnPropNameInRow="شماره_ردیف" msprop:Generator_ColumnVarNameInTable="columnشماره_ردیف" msprop:Generator_ColumnPropNameInTable="شماره_ردیفColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="نام_x0020_غذا" msprop:Generator_UserColumnName="نام غذا" msprop:Generator_ColumnPropNameInRow="نام_غذا" msprop:Generator_ColumnVarNameInTable="columnنام_غذا" msprop:Generator_ColumnPropNameInTable="نام_غذاColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="تعداد" msprop:Generator_UserColumnName="تعداد" msprop:Generator_ColumnPropNameInRow="تعداد" msprop:Generator_ColumnVarNameInTable="columnتعداد" msprop:Generator_ColumnPropNameInTable="تعدادColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="قیمت_x0020_یک_x0020_واحد" msprop:Generator_UserColumnName="قیمت یک واحد" msprop:Generator_ColumnPropNameInRow="قیمت_یک_واحد" msprop:Generator_ColumnVarNameInTable="columnقیمت_یک_واحد" msprop:Generator_ColumnPropNameInTable="قیمت_یک_واحدColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="قیمت_x0020_کل" msprop:Generator_UserColumnName="قیمت کل" msprop:Generator_ColumnPropNameInRow="قیمت_کل" msprop:Generator_ColumnVarNameInTable="columnقیمت_کل" msprop:Generator_ColumnPropNameInTable="قیمت_کلColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DataTable_گزارش_فاکتورهای_صادر_شده" msprop:Generator_UserTableName="DataTable_گزارش_فاکتورهای_صادر_شده" msprop:Generator_RowDeletedName="DataTable_گزارش_فاکتورهای_صادر_شدهRowDeleted" msprop:Generator_TableClassName="DataTable_گزارش_فاکتورهای_صادر_شدهDataTable" msprop:Generator_RowChangedName="DataTable_گزارش_فاکتورهای_صادر_شدهRowChanged" msprop:Generator_RowClassName="DataTable_گزارش_فاکتورهای_صادر_شدهRow" msprop:Generator_RowChangingName="DataTable_گزارش_فاکتورهای_صادر_شدهRowChanging" msprop:Generator_RowEvArgName="DataTable_گزارش_فاکتورهای_صادر_شدهRowChangeEvent" msprop:Generator_RowEvHandlerName="DataTable_گزارش_فاکتورهای_صادر_شدهRowChangeEventHandler" msprop:Generator_TablePropName="DataTable_گزارش_فاکتورهای_صادر_شده" msprop:Generator_TableVarName="tableDataTable_گزارش_فاکتورهای_صادر_شده" msprop:Generator_RowDeletingName="DataTable_گزارش_فاکتورهای_صادر_شدهRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="شماره_x0020_ردیف" msprop:Generator_UserColumnName="شماره ردیف" msprop:Generator_ColumnPropNameInRow="شماره_ردیف" msprop:Generator_ColumnVarNameInTable="columnشماره_ردیف" msprop:Generator_ColumnPropNameInTable="شماره_ردیفColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="نوع_x0020_فاکتور" msprop:Generator_UserColumnName="نوع فاکتور" msprop:Generator_ColumnPropNameInRow="نوع_فاکتور" msprop:Generator_ColumnVarNameInTable="columnنوع_فاکتور" msprop:Generator_ColumnPropNameInTable="نوع_فاکتورColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="شماره_x0020_فاکتور" msprop:Generator_UserColumnName="شماره فاکتور" msprop:Generator_ColumnPropNameInRow="شماره_فاکتور" msprop:Generator_ColumnVarNameInTable="columnشماره_فاکتور" msprop:Generator_ColumnPropNameInTable="شماره_فاکتورColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="شماره_x0020_میز" msprop:Generator_UserColumnName="شماره میز" msprop:Generator_ColumnPropNameInRow="شماره_میز" msprop:Generator_ColumnVarNameInTable="columnشماره_میز" msprop:Generator_ColumnPropNameInTable="شماره_میزColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="مبلغ_x0020_فاکتور" msprop:Generator_UserColumnName="مبلغ فاکتور" msprop:Generator_ColumnPropNameInRow="مبلغ_فاکتور" msprop:Generator_ColumnVarNameInTable="columnمبلغ_فاکتور" msprop:Generator_ColumnPropNameInTable="مبلغ_فاکتورColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="تاریخ_x0020_فاکتور" msprop:Generator_UserColumnName="تاریخ فاکتور" msprop:Generator_ColumnPropNameInRow="تاریخ_فاکتور" msprop:Generator_ColumnVarNameInTable="columnتاریخ_فاکتور" msprop:Generator_ColumnPropNameInTable="تاریخ_فاکتورColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DataTable_گزارش_اقلام_مصرف_شده" msprop:Generator_UserTableName="DataTable_گزارش_اقلام_مصرف_شده" msprop:Generator_RowDeletedName="DataTable_گزارش_اقلام_مصرف_شدهRowDeleted" msprop:Generator_TableClassName="DataTable_گزارش_اقلام_مصرف_شدهDataTable" msprop:Generator_RowChangedName="DataTable_گزارش_اقلام_مصرف_شدهRowChanged" msprop:Generator_RowClassName="DataTable_گزارش_اقلام_مصرف_شدهRow" msprop:Generator_RowChangingName="DataTable_گزارش_اقلام_مصرف_شدهRowChanging" msprop:Generator_RowEvArgName="DataTable_گزارش_اقلام_مصرف_شدهRowChangeEvent" msprop:Generator_RowEvHandlerName="DataTable_گزارش_اقلام_مصرف_شدهRowChangeEventHandler" msprop:Generator_TablePropName="DataTable_گزارش_اقلام_مصرف_شده" msprop:Generator_TableVarName="tableDataTable_گزارش_اقلام_مصرف_شده" msprop:Generator_RowDeletingName="DataTable_گزارش_اقلام_مصرف_شدهRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="شماره_x0020_ردیف" msprop:Generator_UserColumnName="شماره ردیف" msprop:Generator_ColumnPropNameInRow="شماره_ردیف" msprop:Generator_ColumnVarNameInTable="columnشماره_ردیف" msprop:Generator_ColumnPropNameInTable="شماره_ردیفColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="نام_x0020_غذا" msprop:Generator_UserColumnName="نام غذا" msprop:Generator_ColumnPropNameInRow="نام_غذا" msprop:Generator_ColumnVarNameInTable="columnنام_غذا" msprop:Generator_ColumnPropNameInTable="نام_غذاColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="تعداد" msprop:Generator_UserColumnName="تعداد" msprop:Generator_ColumnPropNameInRow="تعداد" msprop:Generator_ColumnVarNameInTable="columnتعداد" msprop:Generator_ColumnPropNameInTable="تعدادColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="قیمت_x0020_یک_x0020_واحد" msprop:Generator_UserColumnName="قیمت یک واحد" msprop:Generator_ColumnPropNameInRow="قیمت_یک_واحد" msprop:Generator_ColumnVarNameInTable="columnقیمت_یک_واحد" msprop:Generator_ColumnPropNameInTable="قیمت_یک_واحدColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="قیمت_x0020_کل" msprop:Generator_UserColumnName="قیمت کل" msprop:Generator_ColumnPropNameInRow="قیمت_کل" msprop:Generator_ColumnVarNameInTable="columnقیمت_کل" msprop:Generator_ColumnPropNameInTable="قیمت_کلColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

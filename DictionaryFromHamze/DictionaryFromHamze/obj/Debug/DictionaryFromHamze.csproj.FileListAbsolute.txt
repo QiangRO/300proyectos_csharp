@@ -1,0 +1,11 @@
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\bin\Debug\DictionaryFromHamze.exe.config
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\bin\Debug\DictionaryFromHamze.exe
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\bin\Debug\DictionaryFromHamze.pdb
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\obj\Debug\ResolveAssemblyReference.cache
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\obj\Debug\DictionaryFromHamze.AboutMe.resources
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\obj\Debug\DictionaryFromHamze.DicForm.resources
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\obj\Debug\DictionaryFromHamze.Properties.Resources.resources
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\obj\Debug\DictionaryFromHamze.SettingForm.resources
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\obj\Debug\DictionaryFromHamze.csproj.GenerateResource.Cache
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\obj\Debug\DictionaryFromHamze.exe
+C:\Download Data\Download\C#.Net\Dictionary\DictionaryFromHamze\DictionaryFromHamze\obj\Debug\DictionaryFromHamze.pdb

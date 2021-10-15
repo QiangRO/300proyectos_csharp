@@ -1,0 +1,16 @@
+F:\CSharp Projects\ImageControl\ImageControl\bin\Debug\ImageControl.dll
+F:\CSharp Projects\ImageControl\ImageControl\bin\Debug\ImageControl.pdb
+F:\CSharp Projects\ImageControl\ImageControl\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharp Projects\ImageControl\ImageControl\obj\Debug\ImageControl.Properties.Resources.resources
+F:\CSharp Projects\ImageControl\ImageControl\obj\Debug\ImageControl.PersonImage.resources
+F:\CSharp Projects\ImageControl\ImageControl\obj\Debug\ImageControl.csproj.GenerateResource.Cache
+F:\CSharp Projects\ImageControl\ImageControl\obj\Debug\ImageControl.dll
+F:\CSharp Projects\ImageControl\ImageControl\obj\Debug\ImageControl.pdb
+F:\CSharp\Completed Projects\ImageControl\ImageControl\bin\Debug\ImageControl.dll
+F:\CSharp\Completed Projects\ImageControl\ImageControl\bin\Debug\ImageControl.pdb
+F:\CSharp\Completed Projects\ImageControl\ImageControl\obj\Debug\ResolveAssemblyReference.cache
+F:\CSharp\Completed Projects\ImageControl\ImageControl\obj\Debug\ImageControl.Properties.Resources.resources
+F:\CSharp\Completed Projects\ImageControl\ImageControl\obj\Debug\ImageControl.PersonImage.resources
+F:\CSharp\Completed Projects\ImageControl\ImageControl\obj\Debug\ImageControl.csproj.GenerateResource.Cache
+F:\CSharp\Completed Projects\ImageControl\ImageControl\obj\Debug\ImageControl.dll
+F:\CSharp\Completed Projects\ImageControl\ImageControl\obj\Debug\ImageControl.pdb

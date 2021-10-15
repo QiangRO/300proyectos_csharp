@@ -1,0 +1,8 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\appmenu_src\AppendMenu\bin\Debug\AppendMenu.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\appmenu_src\AppendMenu\bin\Debug\AppendMenu.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\appmenu_src\AppendMenu\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\appmenu_src\AppendMenu\obj\Debug\AppendMenu.About.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\appmenu_src\AppendMenu\obj\Debug\AppendMenu.AppendToMenu.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\appmenu_src\AppendMenu\obj\Debug\AppendMenu.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\appmenu_src\AppendMenu\obj\Debug\AppendMenu.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\appmenu_src\AppendMenu\obj\Debug\AppendMenu.pdb

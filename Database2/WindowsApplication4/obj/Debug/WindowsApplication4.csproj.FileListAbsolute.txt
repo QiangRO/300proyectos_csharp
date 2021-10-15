@@ -1,0 +1,13 @@
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\bin\Debug\BusinessLogic.dll
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\bin\Debug\DataAccess.dll
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\bin\Debug\DataAccess.pdb
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\bin\Debug\BusinessLogic.pdb
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form2.resources
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Properties.Resources.resources
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.csproj.GenerateResource.Cache

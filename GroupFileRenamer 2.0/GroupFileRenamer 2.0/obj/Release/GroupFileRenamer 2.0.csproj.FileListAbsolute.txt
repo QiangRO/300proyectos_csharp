@@ -1,0 +1,2 @@
+F:\C#.Net\C# Programs\IE Programs\88.3.28\GroupFileRenamer 2.0\GroupFileRenamer 2.0\obj\Release\GroupFileRenamer 2.0.exe
+F:\C#.Net\C# Programs\IE Programs\88.3.28\GroupFileRenamer 2.0\GroupFileRenamer 2.0\obj\Release\GroupFileRenamer 2.0.pdb

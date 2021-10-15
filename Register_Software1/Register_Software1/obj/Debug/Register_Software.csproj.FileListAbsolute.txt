@@ -1,0 +1,8 @@
+f:\Register_Software\bin\Debug\Register_Software.exe
+f:\Register_Software\bin\Debug\Register_Software.pdb
+f:\Register_Software\obj\Debug\ResolveAssemblyReference.cache
+f:\Register_Software\obj\Debug\Register_Software.Properties.Resources.resources
+f:\Register_Software\obj\Debug\Register_Software.csproj.GenerateResource.Cache
+f:\Register_Software\obj\Debug\Register_Software.exe
+f:\Register_Software\obj\Debug\Register_Software.pdb
+F:\Register_Software\obj\Debug\Register_Software.FrmRegisterKey.resources

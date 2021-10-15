@@ -1,0 +1,20 @@
+bin\Release\Demo Application for AITabPanel.exe
+bin\Release\Demo Application for AITabPanel.pdb
+bin\Release\AITabPanel.dll
+bin\Release\AITabPanel.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Demo_Application_for_AITabPanel.MainForm.resources
+obj\Release\Demo_Application_for_AITabPanel.Properties.Resources.resources
+obj\Release\Demo Application for AITabPanel.csproj.GenerateResource.Cache
+obj\Release\Demo Application for AITabPanel.exe
+obj\Release\Demo Application for AITabPanel.pdb
+bin\Debug\Demo Application for AITabPanel.exe
+bin\Debug\Demo Application for AITabPanel.pdb
+bin\Debug\AITabPanel.dll
+bin\Debug\AITabPanel.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Demo_Application_for_AITabPanel.MainForm.resources
+obj\Debug\Demo_Application_for_AITabPanel.Properties.Resources.resources
+obj\Debug\Demo Application for AITabPanel.csproj.GenerateResource.Cache
+obj\Debug\Demo Application for AITabPanel.exe
+obj\Debug\Demo Application for AITabPanel.pdb

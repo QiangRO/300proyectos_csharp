@@ -1,0 +1,8 @@
+C:\Documents and Settings\Admin\Desktop\Persian Date (Vista Skin)\Persian Date (Vista Skin)\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\Persian Date (Vista Skin)\Persian Date (Vista Skin)\obj\Debug\Persian_Date__Vista_Skin_.Form1.resources
+C:\Documents and Settings\Admin\Desktop\Persian Date (Vista Skin)\Persian Date (Vista Skin)\obj\Debug\Persian_Date__Vista_Skin_.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\Persian Date (Vista Skin)\Persian Date (Vista Skin)\obj\Debug\Persian Date (Vista Skin).csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Desktop\Persian Date (Vista Skin)\Persian Date (Vista Skin)\bin\Debug\Persian Date (Vista Skin).exe
+C:\Documents and Settings\Admin\Desktop\Persian Date (Vista Skin)\Persian Date (Vista Skin)\bin\Debug\Persian Date (Vista Skin).pdb
+C:\Documents and Settings\Admin\Desktop\Persian Date (Vista Skin)\Persian Date (Vista Skin)\obj\Debug\Persian Date (Vista Skin).exe
+C:\Documents and Settings\Admin\Desktop\Persian Date (Vista Skin)\Persian Date (Vista Skin)\obj\Debug\Persian Date (Vista Skin).pdb

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Get Money Text\Get Money Text\bin\Debug\Get Money Text.exe
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Get Money Text\Get Money Text\bin\Debug\Get Money Text.pdb
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Get Money Text\Get Money Text\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Get Money Text\Get Money Text\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Get Money Text\Get Money Text\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Get Money Text\Get Money Text\obj\Debug\Get Money Text.csproj.GenerateResource.Cache
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Get Money Text\Get Money Text\obj\Debug\Get Money Text.exe
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Get Money Text\Get Money Text\obj\Debug\Get Money Text.pdb

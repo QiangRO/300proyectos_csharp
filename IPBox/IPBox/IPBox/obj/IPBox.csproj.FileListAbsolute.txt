@@ -1,0 +1,5 @@
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IPBox\IPBox\obj\Debug\ResolveAssemblyReference.cache
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IPBox\IPBox\bin\Debug\IPBox.dll
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IPBox\IPBox\bin\Debug\IPBox.pdb
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IPBox\IPBox\obj\Debug\IPBox.dll
+J:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\IPBox\IPBox\obj\Debug\IPBox.pdb

@@ -1,0 +1,10 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ADO_DLL\ADO_DLL\DB_WinApp\DB_WinApp\obj\Debug\DB_WinApp.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ADO_DLL\ADO_DLL\DB_WinApp\DB_WinApp\obj\Debug\DB_WinApp.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ADO_DLL\ADO_DLL\DB_WinApp\DB_WinApp\bin\Debug\DB_WinApp.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ADO_DLL\ADO_DLL\DB_WinApp\DB_WinApp\bin\Debug\DB_WinApp.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ADO_DLL\ADO_DLL\DB_WinApp\DB_WinApp\bin\Debug\DB_DLL.dll
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ADO_DLL\ADO_DLL\DB_WinApp\DB_WinApp\bin\Debug\DB_DLL.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ADO_DLL\ADO_DLL\DB_WinApp\DB_WinApp\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ADO_DLL\ADO_DLL\DB_WinApp\DB_WinApp\obj\Debug\DB_WinApp.mainFrm.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ADO_DLL\ADO_DLL\DB_WinApp\DB_WinApp\obj\Debug\DB_WinApp.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ADO_DLL\ADO_DLL\DB_WinApp\DB_WinApp\obj\Debug\DB_WinApp.csproj.GenerateResource.Cache

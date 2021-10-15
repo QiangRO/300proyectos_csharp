@@ -1,0 +1,8 @@
+bin\Debug\NotePad.exe
+bin\Debug\NotePad.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NotePad.Form1.resources
+obj\Debug\NotePad.Properties.Resources.resources
+obj\Debug\NotePad.csproj.GenerateResource.Cache
+obj\Debug\NotePad.exe
+obj\Debug\NotePad.pdb

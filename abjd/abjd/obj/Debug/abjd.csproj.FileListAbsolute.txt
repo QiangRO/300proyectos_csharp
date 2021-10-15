@@ -1,0 +1,8 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\abjd\abjd\bin\Debug\abjd.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\abjd\abjd\bin\Debug\abjd.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\abjd\abjd\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\abjd\abjd\obj\Debug\abjd.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\abjd\abjd\obj\Debug\abjd.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\abjd\abjd\obj\Debug\abjd.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\abjd\abjd\obj\Debug\abjd.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\abjd\abjd\obj\Debug\abjd.pdb

@@ -1,0 +1,11 @@
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\bin\Debug\FiFa.exe
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\bin\Debug\FiFa.pdb
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\obj\Debug\FiFa.Properties.Resources.resources
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\obj\Debug\FiFa.csproj.GenerateResource.Cache
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\obj\Debug\FiFa.exe
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\obj\Debug\FiFa.pdb
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\obj\Debug\FiFa.frmMain.resources
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\obj\Debug\FiFa.frmAbout.resources
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\obj\Debug\FiFa.frmAbout2.resources
+C:\Documents and Settings\Home\My Documents\Visual Studio 2008\Projects\FiFa\FiFa\obj\Debug\FiFa.frmHelp.resources

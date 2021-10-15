@@ -1,0 +1,10 @@
+I:\Documents\Visual Studio 2008\Projects\MRZPersianCalendar\MRZPersianCalendar\bin\Debug\MRZPersianCalendar.exe.config
+I:\Documents\Visual Studio 2008\Projects\MRZPersianCalendar\MRZPersianCalendar\bin\Debug\MRZPersianCalendar.exe
+I:\Documents\Visual Studio 2008\Projects\MRZPersianCalendar\MRZPersianCalendar\bin\Debug\MRZPersianCalendar.pdb
+I:\Documents\Visual Studio 2008\Projects\MRZPersianCalendar\MRZPersianCalendar\obj\Debug\ResolveAssemblyReference.cache
+I:\Documents\Visual Studio 2008\Projects\MRZPersianCalendar\MRZPersianCalendar\obj\Debug\MRZPersianCalendar.MainForm.resources
+I:\Documents\Visual Studio 2008\Projects\MRZPersianCalendar\MRZPersianCalendar\obj\Debug\MRZPersianCalendar.Properties.Resources.resources
+I:\Documents\Visual Studio 2008\Projects\MRZPersianCalendar\MRZPersianCalendar\obj\Debug\MRZPersianCalendar.SettingForm.resources
+I:\Documents\Visual Studio 2008\Projects\MRZPersianCalendar\MRZPersianCalendar\obj\Debug\MRZPersianCalendar.csproj.GenerateResource.Cache
+I:\Documents\Visual Studio 2008\Projects\MRZPersianCalendar\MRZPersianCalendar\obj\Debug\MRZPersianCalendar.exe
+I:\Documents\Visual Studio 2008\Projects\MRZPersianCalendar\MRZPersianCalendar\obj\Debug\MRZPersianCalendar.pdb

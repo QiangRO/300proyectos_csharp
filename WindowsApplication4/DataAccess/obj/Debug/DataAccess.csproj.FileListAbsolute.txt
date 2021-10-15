@@ -1,0 +1,6 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\DataAccess\bin\Debug\DataAccess.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\DataAccess\bin\Debug\DataAccess.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\DataAccess\obj\Debug\DataAccess.dll
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication4\DataAccess\obj\Debug\DataAccess.pdb

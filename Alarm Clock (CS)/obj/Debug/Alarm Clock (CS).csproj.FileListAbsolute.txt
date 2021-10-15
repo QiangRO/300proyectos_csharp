@@ -1,0 +1,8 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Alarm Clock (CS)\obj\Debug\Alarm Clock (CS).exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Alarm Clock (CS)\obj\Debug\Alarm Clock (CS).pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Alarm Clock (CS)\bin\Debug\Alarm Clock (CS).exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Alarm Clock (CS)\bin\Debug\Alarm Clock (CS).pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Alarm Clock (CS)\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Alarm Clock (CS)\obj\Debug\Alarm_Clock__CS_.Main.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Alarm Clock (CS)\obj\Debug\Alarm_Clock__CS_.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Alarm Clock (CS)\obj\Debug\Alarm Clock (CS).csproj.GenerateResource.Cache

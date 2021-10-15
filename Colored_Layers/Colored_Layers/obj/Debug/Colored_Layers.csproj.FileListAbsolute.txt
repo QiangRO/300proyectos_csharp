@@ -1,0 +1,10 @@
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\Colored_Layers\Colored_Layers\obj\Debug\Colored_Layers.exe
+F:\PROGRAMS\C# Programs\IE Programs\Barnamenevis2\Colored_Layers\Colored_Layers\obj\Debug\Colored_Layers.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Colored_Layers\Colored_Layers\obj\Debug\Colored_Layers.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Colored_Layers\Colored_Layers\obj\Debug\Colored_Layers.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Colored_Layers\Colored_Layers\bin\Debug\Colored_Layers.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Colored_Layers\Colored_Layers\bin\Debug\Colored_Layers.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Colored_Layers\Colored_Layers\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Colored_Layers\Colored_Layers\obj\Debug\Transparent_layer.Main.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Colored_Layers\Colored_Layers\obj\Debug\Colored_Layers.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Colored_Layers\Colored_Layers\obj\Debug\Colored_Layers.csproj.GenerateResource.Cache

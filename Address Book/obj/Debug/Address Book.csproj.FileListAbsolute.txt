@@ -1,0 +1,8 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Address Book\obj\Debug\Address Book.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Address Book\obj\Debug\Address Book.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Address Book\bin\Debug\Address Book.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Address Book\bin\Debug\Address Book.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Address Book\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Address Book\obj\Debug\Address_Book.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Address Book\obj\Debug\Address_Book.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Address Book\obj\Debug\Address Book.csproj.GenerateResource.Cache

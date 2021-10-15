@@ -1,0 +1,61 @@
+D:\My Works\C#\WPF\RezaRestaurant\RezaRestaurant\RezaRestaurant\bin\Debug\RezaRestaurant.exe
+D:\My Works\C#\WPF\RezaRestaurant\RezaRestaurant\RezaRestaurant\bin\Debug\RezaRestaurant.pdb
+D:\My Works\C#\WPF\RezaRestaurant\RezaRestaurant\RezaRestaurant\obj\Debug\ResolveAssemblyReference.cache
+D:\My Works\C#\WPF\RezaRestaurant\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form1.resources
+D:\My Works\C#\WPF\RezaRestaurant\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Properties.Resources.resources
+D:\My Works\C#\WPF\RezaRestaurant\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.csproj.GenerateResource.Cache
+D:\My Works\C#\WPF\RezaRestaurant\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.exe
+D:\My Works\C#\WPF\RezaRestaurant\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.pdb
+D:\My Works\C#\WPF\RezaRestaurant\WinForm\RezaRestaurant\obj\Debug\RezaRestaurant.exe
+D:\My Works\C#\WPF\RezaRestaurant\WinForm\RezaRestaurant\obj\Debug\RezaRestaurant.pdb
+D:\My Works\C#\WPF\RezaRestaurant\WinForm\RezaRestaurant\bin\Debug\RezaRestaurant.exe
+D:\My Works\C#\WPF\RezaRestaurant\WinForm\RezaRestaurant\bin\Debug\RezaRestaurant.pdb
+D:\My Works\C#\WPF\RezaRestaurant\WinForm\RezaRestaurant\obj\Debug\ResolveAssemblyReference.cache
+D:\My Works\C#\WPF\RezaRestaurant\WinForm\RezaRestaurant\obj\Debug\RezaRestaurant.Properties.Resources.resources
+D:\My Works\C#\WPF\RezaRestaurant\WinForm\RezaRestaurant\obj\Debug\RezaRestaurant.csproj.GenerateResource.Cache
+D:\My Works\C#\WPF\RezaRestaurant\WinForm\RezaRestaurant\obj\Debug\RezaRestaurant.Form_صدور_فاکتور.resources
+D:\My Works\C#\WPF\RezaRestaurant\WinForm\RezaRestaurant\obj\Debug\RezaRestaurant.MainForm.resources
+D:\My Works\C#\WPF\RezaRestaurant\WinForm\RezaRestaurant\obj\Debug\RezaRestaurant.Form_گزارش_روزانه.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.exe
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.pdb
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\bin\Debug\RezaRestaurant.exe
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\bin\Debug\RezaRestaurant.pdb
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\ResolveAssemblyReference.cache
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.MainForm.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Properties.Resources.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_صدور_فاکتور.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_گزارش_روزانه.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.csproj.GenerateResource.Cache
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_جستجو.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_کدهای_غذا.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_پیغام.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\bin\Debug\RezaRestaurant.exe.config
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_تنظیمات_نرم_افزار.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Forms.FormLogin.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\bin\Debug\MohammadDayyanCalendar.dll
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\bin\Debug\MohammadDayyanCalendar.pdb
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\bin\Debug\MohammadDayyanCalendar.xml
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Forms.Form_لیست_غذاها.resources
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\bin\Debug\SQL\Database.mdf
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\bin\Debug\SQL\Database_log.ldf
+D:\My Works\C#\Win Form\RezaRestaurant\RezaRestaurant\obj\Debug\RezaRestaurant.CrystalReport.CrystalReport_فاکتور.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\bin\Debug\SQL\RRDB.mdf
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\bin\Debug\SQL\RRDB_log.ldf
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\bin\Debug\RezaRestaurant.exe.config
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\bin\Debug\RezaRestaurant.exe
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\bin\Debug\RezaRestaurant.pdb
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\ResolveAssemblyReference.cache
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.CrystalReport.CrystalReport_فاکتور.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Forms.FormLogin.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.MainForm.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Forms.Form_لیست_غذاها.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Properties.Resources.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_تنظیمات_نرم_افزار.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_پیغام.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_کدهای_غذا.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_جستجو.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_صدور_فاکتور.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.Form_گزارش_روزانه.resources
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.csproj.GenerateResource.Cache
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.exe
+D:\My Works\C#\Win Form\Reza Restaurant\RezaRestaurant\obj\Debug\RezaRestaurant.pdb

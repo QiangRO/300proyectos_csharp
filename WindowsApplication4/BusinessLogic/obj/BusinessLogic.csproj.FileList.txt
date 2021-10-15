@@ -1,0 +1,7 @@
+bin\Debug\BusinessLogic.dll
+bin\Debug\BusinessLogic.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BusinessLogic.dll
+obj\Debug\BusinessLogic.pdb
+bin\Debug\DataAccess.dll
+bin\Debug\DataAccess.pdb

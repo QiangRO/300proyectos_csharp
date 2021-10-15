@@ -1,0 +1,21 @@
+C:\Documents and Settings\kia\Desktop\OrgChart\OrgChart\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kia\Desktop\OrgChart\OrgChart\obj\Debug\OrgChart.Form1.resources
+C:\Documents and Settings\kia\Desktop\OrgChart\OrgChart\obj\Debug\OrgChart.Properties.Resources.resources
+C:\Documents and Settings\kia\Desktop\OrgChart\OrgChart\obj\Debug\OrgChart.csproj.GenerateResource.Cache
+C:\Documents and Settings\kia\Desktop\OrgChart\OrgChart\bin\Debug\OrgChart.exe
+C:\Documents and Settings\kia\Desktop\OrgChart\OrgChart\bin\Debug\OrgChart.pdb
+C:\Documents and Settings\kia\Desktop\OrgChart\OrgChart\bin\Debug\dotnetCharting.WinForms.dll
+C:\Documents and Settings\kia\Desktop\OrgChart\OrgChart\bin\Debug\dotnetCharting.WinForms.xml
+C:\Documents and Settings\kia\Desktop\OrgChart\OrgChart\obj\Debug\OrgChart.exe
+C:\Documents and Settings\kia\Desktop\OrgChart\OrgChart\obj\Debug\OrgChart.pdb
+C:\Documents and Settings\administrator\Desktop\OrgChart\OrgChart\OrgChart\obj\Debug\OrgChart.exe
+C:\Documents and Settings\administrator\Desktop\OrgChart\OrgChart\OrgChart\obj\Debug\OrgChart.pdb
+C:\Documents and Settings\administrator\Desktop\OrgChart\OrgChart\OrgChart\bin\Debug\OrgChart.exe
+C:\Documents and Settings\administrator\Desktop\OrgChart\OrgChart\OrgChart\bin\Debug\OrgChart.pdb
+C:\Documents and Settings\administrator\Desktop\OrgChart\OrgChart\OrgChart\bin\Debug\dotnetCharting.WinForms.xml
+C:\Documents and Settings\administrator\Desktop\OrgChart\OrgChart\OrgChart\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\administrator\Desktop\OrgChart\OrgChart\OrgChart\obj\Debug\OrgChart.Form1.resources
+C:\Documents and Settings\administrator\Desktop\OrgChart\OrgChart\OrgChart\obj\Debug\OrgChart.Properties.Resources.resources
+C:\Documents and Settings\administrator\Desktop\OrgChart\OrgChart\OrgChart\obj\Debug\OrgChart.csproj.GenerateResource.Cache
+I:\C#\C#\OrgChart\OrgChart\OrgChart\obj\Debug\OrgChart.exe
+I:\C#\C#\OrgChart\OrgChart\OrgChart\obj\Debug\OrgChart.pdb

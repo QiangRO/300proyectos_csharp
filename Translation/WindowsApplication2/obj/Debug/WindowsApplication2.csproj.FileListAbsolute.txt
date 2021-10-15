@@ -1,0 +1,8 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\Translation\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\Translation\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\Translation\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\Translation\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\Translation\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\Translation\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\Translation\WindowsApplication2\obj\Debug\WindowsApplication2.Properties.Resources.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\88.3.28\Translation\WindowsApplication2\obj\Debug\WindowsApplication2.csproj.GenerateResource.Cache

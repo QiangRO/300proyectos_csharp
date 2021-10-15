@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="wqb">
+</Property><Property Name="Solution File" Value="I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\wqb.sln">
+</Property><Property Name="User Options File" Value="I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\wqb.suo">
+</Property><Property Name="Date" Value="السبت, جانفييه 01, 2005">
+</Property><Property Name="Time" Value="13:01 بعد از ظهر">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="wqb.sln" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb.sln">
+</Event><Event ErrorLevel="0" Project="" Source="wqb.suo" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb.suo">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\wqb.csproj" Description="Project file successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb\wqb.csproj">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\Form1.cs" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb\Form1.cs">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\Form1.Designer.cs" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\Program.cs" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb\Program.cs">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\Properties\AssemblyInfo.cs" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\Properties\Resources.Designer.cs" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\Properties\Settings.Designer.cs" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\Properties\Settings.settings" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\Form1.resx" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb\Form1.resx">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\Properties\Resources.resx" Description="File successfully backed up as I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\Backup\wqb\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\wqb.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="wqb" Source="wqb\wqb.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="wqb.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="wqb.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="wqb" Source="wqb\wqb.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

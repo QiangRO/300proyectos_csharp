@@ -1,0 +1,18 @@
+D:\Daneshjoo\Daneshjoo\obj\Debug\ResolveAssemblyReference.cache
+D:\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.Form1.resources
+D:\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.Properties.Resources.resources
+D:\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.csproj.GenerateResource.Cache
+D:\Daneshjoo\Daneshjoo\bin\Debug\Daneshjoo.exe
+D:\Daneshjoo\Daneshjoo\bin\Debug\Daneshjoo.pdb
+D:\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.exe
+D:\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\2.9.2009\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\2.9.2009\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\2.9.2009\Daneshjoo\Daneshjoo\bin\Debug\Daneshjoo.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\2.9.2009\Daneshjoo\Daneshjoo\bin\Debug\Daneshjoo.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\2.9.2009\Daneshjoo\Daneshjoo\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\2.9.2009\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.Form1.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\2.9.2009\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.Properties.Resources.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\2.9.2009\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Daneshjoo\Daneshjoo\obj\Debug\Daneshjoo.pdb

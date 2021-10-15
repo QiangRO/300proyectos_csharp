@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsApplication1">
+</Property><Property Name="Solution File" Value="D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\WindowsApplication1.sln">
+</Property><Property Name="Date" Value="الأحد, جانفييه 02, 2005">
+</Property><Property Name="Time" Value="01:39:44 ق.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1.csproj" Description="Project file successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\WindowsApplication1.csproj">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form1.cs" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form1.Designer.cs" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Program.cs" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Properties\Settings.settings" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="log.mdb" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\log.mdb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Form1.resx" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="Properties\Resources.resx" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\My Programs\Learn\More Project\WindowsApplication1\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsApplication1" Source="WindowsApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

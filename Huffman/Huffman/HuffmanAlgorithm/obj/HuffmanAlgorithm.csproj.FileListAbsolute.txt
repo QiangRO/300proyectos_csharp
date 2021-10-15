@@ -1,0 +1,24 @@
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\HuffmanAlgorithm.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\HuffmanAlgorithm.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.Main.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.Properties.Resources.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.csproj.GenerateResource.Cache
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Huffman\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Huffman\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Huffman\HuffmanAlgorithm\bin\Debug\HuffmanAlgorithm.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Huffman\HuffmanAlgorithm\bin\Debug\HuffmanAlgorithm.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Huffman\HuffmanAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Huffman\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.Main.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Huffman\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.Properties.Resources.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Programs\Huffman\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.csproj.GenerateResource.Cache
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Huffman\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Huffman\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Huffman\HuffmanAlgorithm\bin\Debug\HuffmanAlgorithm.exe
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Huffman\HuffmanAlgorithm\bin\Debug\HuffmanAlgorithm.pdb
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Huffman\HuffmanAlgorithm\obj\Debug\ResolveAssemblyReference.cache
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Huffman\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.Main.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Huffman\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.Properties.Resources.resources
+C:\HOME\I N F O R M A T I O N\PROGRAMMING\C#\Algorithm Design\Algorithm Programs\Huffman\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.csproj.GenerateResource.Cache

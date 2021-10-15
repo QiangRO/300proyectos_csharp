@@ -1,0 +1,9 @@
+D:\NWinsock\NWinsock\obj\Debug\ResolveAssemblyReference.cache
+D:\NWinsock\NWinsock\obj\Debug\NWinsock.Properties.Resources.resources
+D:\NWinsock\NWinsock\obj\Debug\Control.Notify.NotifyProvider.resources
+D:\NWinsock\NWinsock\obj\Debug\NWinsock.csproj.GenerateResource.Cache
+D:\NWinsock\NWinsock\bin\Debug\NWinsock.exe
+D:\NWinsock\NWinsock\bin\Debug\NWinsock.pdb
+D:\NWinsock\NWinsock\obj\Debug\NWinsock.exe
+D:\NWinsock\NWinsock\obj\Debug\NWinsock.pdb
+D:\NWinsock\NWinsock\obj\Debug\NWinsock.NotifyForm.resources

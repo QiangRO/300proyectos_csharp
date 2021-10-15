@@ -1,0 +1,10 @@
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Permutation\Permutation\bin\Debug\Permutation By Salar Ashgi.exe
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Permutation\Permutation\bin\Debug\Permutation By Salar Ashgi.pdb
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Permutation\Permutation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Permutation\Permutation\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Permutation\Permutation\obj\Debug\SalarSoft.Properties.Resources.resources
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Permutation\Permutation\obj\Debug\Permutation.csproj.GenerateResource.Cache
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Permutation\Permutation\obj\Debug\Permutation By Salar Ashgi.exe
+C:\Documents and Settings\Eshghe Allah\My Documents\Visual Studio 2008\Projects\Permutation\Permutation\obj\Debug\Permutation By Salar Ashgi.pdb
+E:\C#\Permutation\Source\Permutation\obj\Debug\Permutation By Salar Ashgi.exe
+E:\C#\Permutation\Source\Permutation\obj\Debug\Permutation By Salar Ashgi.pdb

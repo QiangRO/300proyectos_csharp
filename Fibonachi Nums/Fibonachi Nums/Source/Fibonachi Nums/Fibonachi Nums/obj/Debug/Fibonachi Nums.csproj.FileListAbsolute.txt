@@ -1,0 +1,8 @@
+C:\Users\Eshghe Allah\Documents\Visual Studio 2008\Projects\Fibonachi Nums\Fibonachi Nums\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eshghe Allah\Documents\Visual Studio 2008\Projects\Fibonachi Nums\Fibonachi Nums\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Eshghe Allah\Documents\Visual Studio 2008\Projects\Fibonachi Nums\Fibonachi Nums\obj\Debug\Fibonachi Nums.csproj.GenerateResource.Cache
+C:\Users\Eshghe Allah\Documents\Visual Studio 2008\Projects\Fibonachi Nums\Fibonachi Nums\bin\Debug\Fibonachi Nums By Salar Ashgi.exe
+C:\Users\Eshghe Allah\Documents\Visual Studio 2008\Projects\Fibonachi Nums\Fibonachi Nums\bin\Debug\Fibonachi Nums By Salar Ashgi.pdb
+C:\Users\Eshghe Allah\Documents\Visual Studio 2008\Projects\Fibonachi Nums\Fibonachi Nums\obj\Debug\SalarSoft.Properties.Resources.resources
+C:\Users\Eshghe Allah\Documents\Visual Studio 2008\Projects\Fibonachi Nums\Fibonachi Nums\obj\Debug\Fibonachi Nums By Salar Ashgi.exe
+C:\Users\Eshghe Allah\Documents\Visual Studio 2008\Projects\Fibonachi Nums\Fibonachi Nums\obj\Debug\Fibonachi Nums By Salar Ashgi.pdb

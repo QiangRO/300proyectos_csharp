@@ -1,0 +1,9 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.pdb

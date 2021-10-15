@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Transparent_layer.Form1.resources
+obj\Debug\Transparent_layer.Properties.Resources.resources
+obj\Debug\Transparent_layer.csproj.GenerateResource.Cache
+bin\Debug\Transparent_layer.exe
+bin\Debug\Transparent_layer.pdb
+obj\Debug\Transparent_layer.exe
+obj\Debug\Transparent_layer.pdb

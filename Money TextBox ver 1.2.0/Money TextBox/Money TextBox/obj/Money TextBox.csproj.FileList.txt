@@ -1,0 +1,16 @@
+bin\Release\Money TextBox.dll
+bin\Release\Money TextBox.pdb
+F:\Programing Project\C# Project\Money TextBox\Money TextBox\bin\Release\Money TextBox.tlb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Money_TextBox.moneyTxtBx.resources
+obj\Release\Money TextBox.csproj.GenerateResource.Cache
+obj\Release\Money TextBox.dll
+obj\Release\Money TextBox.pdb
+bin\Debug\Money TextBox.dll
+bin\Debug\Money TextBox.pdb
+F:\Programing Project\C# Project\Money TextBox\Money TextBox\bin\Debug\Money TextBox.tlb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Money_TextBox.moneyTxtBx.resources
+obj\Debug\Money TextBox.csproj.GenerateResource.Cache
+obj\Debug\Money TextBox.dll
+obj\Debug\Money TextBox.pdb

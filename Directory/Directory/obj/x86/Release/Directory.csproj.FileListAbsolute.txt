@@ -1,0 +1,10 @@
+D:\Mohammad\Programs\C#\Directory\Directory\bin\x86\Release\Directory.exe
+D:\Mohammad\Programs\C#\Directory\Directory\bin\x86\Release\Directory.pdb
+D:\Mohammad\Programs\C#\Directory\Directory\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Mohammad\Programs\C#\Directory\Directory\obj\x86\Release\Director.Form1.resources
+D:\Mohammad\Programs\C#\Directory\Directory\obj\x86\Release\Director.Properties.Resources.resources
+D:\Mohammad\Programs\C#\Directory\Directory\obj\x86\Release\Directory.csproj.GenerateResource.Cache
+D:\Mohammad\Programs\C#\Directory\Directory\obj\x86\Release\Directory.exe
+D:\Mohammad\Programs\C#\Directory\Directory\obj\x86\Release\Directory.pdb
+Y:\Mohammad\Programs\C#\Directory\Directory\obj\x86\Release\Directory.exe
+Y:\Mohammad\Programs\C#\Directory\Directory\obj\x86\Release\Directory.pdb

@@ -1,0 +1,8 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\wqb\obj\Debug\wqb.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\wqb\obj\Debug\wqb.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\wqb\bin\Debug\wqb.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\wqb\bin\Debug\wqb.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\wqb\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\wqb\obj\Debug\wqb.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\wqb\obj\Debug\wqb.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\bubble sort\wqb\wqb\obj\Debug\wqb.csproj.GenerateResource.Cache

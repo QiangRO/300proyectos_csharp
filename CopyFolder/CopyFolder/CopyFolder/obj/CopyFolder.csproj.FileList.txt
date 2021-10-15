@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CopyFolder.Form1.resources
+obj\Debug\CopyFolder.Properties.Resources.resources
+obj\Debug\CopyFolder.csproj.GenerateResource.Cache
+bin\Debug\CopyFolder.exe
+bin\Debug\CopyFolder.pdb
+obj\Debug\CopyFolder.exe
+obj\Debug\CopyFolder.pdb
+bin\Release\CopyFolder.exe
+bin\Release\CopyFolder.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CopyFolder.Form1.resources
+obj\Release\CopyFolder.Properties.Resources.resources
+obj\Release\CopyFolder.csproj.GenerateResource.Cache
+obj\Release\CopyFolder.exe
+obj\Release\CopyFolder.pdb

@@ -1,0 +1,8 @@
+D:\Mohammad\Programs\C#\Directory\Directory\bin\Debug\Directory.exe
+D:\Mohammad\Programs\C#\Directory\Directory\bin\Debug\Directory.pdb
+D:\Mohammad\Programs\C#\Directory\Directory\obj\Debug\ResolveAssemblyReference.cache
+D:\Mohammad\Programs\C#\Directory\Directory\obj\Debug\Director.Form1.resources
+D:\Mohammad\Programs\C#\Directory\Directory\obj\Debug\Director.Properties.Resources.resources
+D:\Mohammad\Programs\C#\Directory\Directory\obj\Debug\Directory.csproj.GenerateResource.Cache
+D:\Mohammad\Programs\C#\Directory\Directory\obj\Debug\Directory.exe
+D:\Mohammad\Programs\C#\Directory\Directory\obj\Debug\Directory.pdb

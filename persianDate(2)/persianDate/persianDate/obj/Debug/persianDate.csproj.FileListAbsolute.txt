@@ -1,0 +1,10 @@
+C:\Documents and Settings\bebmax\Desktop\persianDate\persianDate\bin\Debug\persianDate.exe
+C:\Documents and Settings\bebmax\Desktop\persianDate\persianDate\bin\Debug\persianDate.pdb
+C:\Documents and Settings\bebmax\Desktop\persianDate\persianDate\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bebmax\Desktop\persianDate\persianDate\obj\Debug\persianDate.Form1.resources
+C:\Documents and Settings\bebmax\Desktop\persianDate\persianDate\obj\Debug\persianDate.Properties.Resources.resources
+C:\Documents and Settings\bebmax\Desktop\persianDate\persianDate\obj\Debug\persianDate.csproj.GenerateResource.Cache
+C:\Documents and Settings\bebmax\Desktop\persianDate\persianDate\obj\Debug\persianDate.exe
+C:\Documents and Settings\bebmax\Desktop\persianDate\persianDate\obj\Debug\persianDate.pdb
+C:\C#.Net\C# Programs\IE Programs\18-6-88\persianDate(2)\persianDate\persianDate\obj\Debug\persianDate.exe
+C:\C#.Net\C# Programs\IE Programs\18-6-88\persianDate(2)\persianDate\persianDate\obj\Debug\persianDate.pdb

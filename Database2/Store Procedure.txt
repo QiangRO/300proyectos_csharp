@@ -1,0 +1,10 @@
+CREATE Proc [dbo].[sp_1]
+as
+	SELECT ROW_NUMBER() OVER(ORDER BY CompanyName) as 'Row',
+		CustomerID , CompanyName , Country , City From Customers
+
+
+
+Create Proc [dbo].[sp_3]
+as
+	Select FirstName , LastName From Employees

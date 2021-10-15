@@ -1,0 +1,13 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\bin\Debug\Code Ascii.exe.config
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\bin\Debug\Code Ascii.exe.manifest
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\bin\Debug\Code Ascii.application
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\bin\Debug\Code Ascii.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\bin\Debug\Code Ascii.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\obj\Debug\Code_Ascii.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\obj\Debug\Code_Ascii.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\obj\Debug\Code Ascii.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\obj\Debug\Code Ascii.exe.manifest
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\obj\Debug\Code Ascii.application
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\obj\Debug\Code Ascii.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Code Ascii\Code Ascii\obj\Debug\Code Ascii.pdb

@@ -1,0 +1,8 @@
+bin\Debug\Drive Icon Changer.exe
+bin\Debug\Drive Icon Changer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Drive_Icon_Changer.Form1.resources
+obj\Debug\Drive_Icon_Changer.Properties.Resources.resources
+obj\Debug\Drive Icon Changer.csproj.GenerateResource.Cache
+obj\Debug\Drive Icon Changer.exe
+obj\Debug\Drive Icon Changer.pdb

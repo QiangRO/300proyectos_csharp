@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="How-To Multithreading">
+</Property><Property Name="Solution File" Value="D:\c#sample\Advanced - Multithreading - How-To Async Calls\How-To Multithreading.sln">
+</Property><Property Name="Date" Value="2008/08/10">
+</Property><Property Name="Time" Value="16:28 ب.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="How-To Multithreading.sln" Description="File successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\How-To Multithreading.sln">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="How-To Multithreading.csproj" Description="Project file successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\How-To Multithreading.csproj">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="How-To Multithreading.csproj.user" Description="Project user file successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\How-To Multithreading.csproj.user">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="frmAbout.cs" Description="File successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="frmMain.cs" Description="File successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="frmTaskProgress.cs" Description="File successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\frmTaskProgress.cs">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="How-To.ico" Description="File successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\How-To.ico">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="ReadMe.htm" Description="File successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\ReadMe.htm">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="frmAbout.resx" Description="File successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="frmMain.resx" Description="File successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="frmTaskProgress.resx" Description="File successfully backed up as D:\c#sample\Advanced - Multithreading - How-To Async Calls\Backup\frmTaskProgress.resx">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="How-To Multithreading.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="How-To Multithreading" Source="How-To Multithreading.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="How-To Multithreading.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="How-To Multithreading.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="How-To Multithreading" Source="How-To Multithreading.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

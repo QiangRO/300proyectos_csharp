@@ -1,0 +1,5 @@
+E:\C#\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.exe
+E:\C#\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.pdb
+E:\C#\Prime Numbers\Prime Numbers\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.exe
+E:\C#\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.pdb

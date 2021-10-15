@@ -1,0 +1,4 @@
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\obj\Release\project_2.Form1.resources
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\obj\Release\project_2.Properties.Resources.resources
+C:\Users\Yalda\AppData\Local\Temporary Projects\project 2\obj\Release\project 2.csproj.GenerateResource.Cache

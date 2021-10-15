@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FarsiMessageBox.MsgBox.resources
+obj\Debug\FarsiMessageBox.csproj.GenerateResource.Cache
+bin\Debug\FarsiMessageBox.dll
+bin\Debug\FarsiMessageBox.pdb
+obj\Debug\FarsiMessageBox.dll
+obj\Debug\FarsiMessageBox.pdb
+obj\Debug\FarsiMessageBox.Icons.error.bmp
+obj\Debug\FarsiMessageBox.Icons.info.bmp
+obj\Debug\FarsiMessageBox.Icons.question.bmp
+obj\Debug\FarsiMessageBox.Icons.warning.bmp

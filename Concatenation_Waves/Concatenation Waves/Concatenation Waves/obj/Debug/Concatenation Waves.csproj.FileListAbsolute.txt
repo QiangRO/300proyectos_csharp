@@ -1,0 +1,8 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Concatenation_Waves\Concatenation Waves\Concatenation Waves\bin\Debug\Concatenation Waves.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Concatenation_Waves\Concatenation Waves\Concatenation Waves\bin\Debug\Concatenation Waves.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Concatenation_Waves\Concatenation Waves\Concatenation Waves\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Concatenation_Waves\Concatenation Waves\Concatenation Waves\obj\Debug\Concatenation_Waves.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Concatenation_Waves\Concatenation Waves\Concatenation Waves\obj\Debug\Concatenation_Waves.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Concatenation_Waves\Concatenation Waves\Concatenation Waves\obj\Debug\Concatenation Waves.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Concatenation_Waves\Concatenation Waves\Concatenation Waves\obj\Debug\Concatenation Waves.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Concatenation_Waves\Concatenation Waves\Concatenation Waves\obj\Debug\Concatenation Waves.pdb

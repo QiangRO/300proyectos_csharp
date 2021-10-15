@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="All Dialogs">
+</Property><Property Name="Solution File" Value="D:\My Source in Csharp\All Dialogs\All Dialogs.sln">
+</Property><Property Name="User Options File" Value="D:\My Source in Csharp\All Dialogs\All Dialogs.suo">
+</Property><Property Name="Date" Value="2009/02/15">
+</Property><Property Name="Time" Value="15:51 ب.ظ">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="All Dialogs.sln" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs.sln">
+</Event><Event ErrorLevel="0" Project="" Source="All Dialogs.suo" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs.suo">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\All Dialogs Coded by Yashar.csproj" Description="Project file successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\All Dialogs Coded by Yashar.csproj">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\All Dialogs Coded by Yashar.csproj.user" Description="Project user file successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\All Dialogs Coded by Yashar.csproj.user">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Form1.cs" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Form1.cs">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Form1.Designer.cs" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Form2.cs" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Form2.cs">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Form2.Designer.cs" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Program.cs" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Program.cs">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\All Dialogs Coded by Yashar_TemporaryKey.pfx" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\All Dialogs Coded by Yashar_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Properties\Settings.settings" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Form1.resx" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Form1.resx">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Form2.resx" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Form2.resx">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\Properties\Resources.resx" Description="File successfully backed up as D:\My Source in Csharp\All Dialogs\Backup1\All Dialogs by Yashar\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\All Dialogs Coded by Yashar.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\All Dialogs Coded by Yashar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="All Dialogs.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="All Dialogs.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="All Dialogs Coded by Yashar" Source="All Dialogs by Yashar\All Dialogs Coded by Yashar.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

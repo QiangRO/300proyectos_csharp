@@ -1,0 +1,42 @@
+I:\mahdi\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\My Simple AntiVirus 1.0.exe
+I:\mahdi\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\My Simple AntiVirus 1.0.pdb
+I:\mahdi\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\ResolveAssemblyReference.cache
+I:\mahdi\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.FrmAbout.resources
+I:\mahdi\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.frmmain.resources
+I:\mahdi\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.FrmScan.resources
+I:\mahdi\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.Properties.Resources.resources
+I:\mahdi\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay Virus Remover.csproj.GenerateResource.Cache
+I:\mahdi\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\bin\Debug\My Simple AntiVirus 1.0.exe
+I:\mahdi\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\bin\Debug\My Simple AntiVirus 1.0.pdb
+E:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\My Simple AntiVirus 1.0.exe
+E:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\My Simple AntiVirus 1.0.pdb
+E:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\bin\Debug\My Simple AntiVirus 1.0.exe
+E:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\bin\Debug\My Simple AntiVirus 1.0.pdb
+E:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.FrmAbout.resources
+E:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.frmmain.resources
+E:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.FrmScan.resources
+E:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.Properties.Resources.resources
+E:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay Virus Remover.csproj.GenerateResource.Cache
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\My Simple AntiVirus 1.0.exe
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\My Simple AntiVirus 1.0.pdb
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\bin\Debug\My Simple AntiVirus 1.0.exe
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\bin\Debug\My Simple AntiVirus 1.0.pdb
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.FrmAbout.resources
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.frmmain.resources
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.FrmScan.resources
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.Properties.Resources.resources
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay Virus Remover.csproj.GenerateResource.Cache
+D:\Visual Studio 2005 Projects\my projects\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.FrmVirusManager.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\My Simple AntiVirus 1.0.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\My Simple AntiVirus 1.0.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\bin\Debug\My Simple AntiVirus 1.0.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\bin\Debug\My Simple AntiVirus 1.0.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.FrmAbout.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.frmmain.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.FrmScan.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.FrmVirusManager.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay_Virus_Remover.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Autoplay Virus Remover\Autoplay Virus Remover\Autoplay Virus Remover\obj\Debug\Autoplay Virus Remover.csproj.GenerateResource.Cache

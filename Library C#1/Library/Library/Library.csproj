@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{52E7854D-273D-4144-8BC4-FC34FB1757AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Library</RootNamespace>
+    <AssemblyName>Library</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBook.Designer.cs">
+      <DependentUpon>AddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BackupDeatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackupDeatabase.Designer.cs">
+      <DependentUpon>BackupDeatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookAzDorKharej.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookAzDorKharej.Designer.cs">
+      <DependentUpon>BookAzDorKharej.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditAddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditAddBook.Designer.cs">
+      <DependentUpon>EditAddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditLibrarian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditLibrarian.Designer.cs">
+      <DependentUpon>EditLibrarian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditRegisteredAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditRegisteredAdmin.Designer.cs">
+      <DependentUpon>EditRegisteredAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditReisterUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditReisterUser.Designer.cs">
+      <DependentUpon>EditReisterUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditTrusteeshipRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditTrusteeshipRegister.Designer.cs">
+      <DependentUpon>EditTrusteeshipRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoginLibrarian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginLibrarian.Designer.cs">
+      <DependentUpon>LoginLibrarian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginLibraryManagment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginLibraryManagment.Designer.cs">
+      <DependentUpon>LoginLibraryManagment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFormPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFormPanel.Designer.cs">
+      <DependentUpon>MainFormPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="persianDate.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddBook.resx">
+      <DependentUpon>AddBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackupDeatabase.resx">
+      <DependentUpon>BackupDeatabase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookAzDorKharej.resx">
+      <DependentUpon>BookAzDorKharej.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditAddBook.resx">
+      <DependentUpon>EditAddBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditLibrarian.resx">
+      <DependentUpon>EditLibrarian.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditRegisteredAdmin.resx">
+      <DependentUpon>EditRegisteredAdmin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditReisterUser.resx">
+      <DependentUpon>EditReisterUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditTrusteeshipRegister.resx">
+      <DependentUpon>EditTrusteeshipRegister.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginLibrarian.resx">
+      <DependentUpon>LoginLibrarian.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginLibraryManagment.resx">
+      <DependentUpon>LoginLibraryManagment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFormPanel.resx">
+      <DependentUpon>MainFormPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterAdmin.resx">
+      <DependentUpon>RegisterAdmin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisteredUserSearchFrom.resx">
+      <DependentUpon>RegisteredUserSearchFrom.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registerlibrarian.resx">
+      <DependentUpon>Registerlibrarian.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterUserForm.resx">
+      <DependentUpon>RegisterUserForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportingLibrarian.resx">
+      <DependentUpon>ReportingLibrarian.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportingTrusteeship .resx">
+      <DependentUpon>ReportingTrusteeship .cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestoreBackup.resx">
+      <DependentUpon>RestoreBackup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchBook.resx">
+      <DependentUpon>SearchBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trusteeshipRegister.resx">
+      <DependentUpon>trusteeshipRegister.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrusteeshipSearch.resx">
+      <DependentUpon>TrusteeshipSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RegisterAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterAdmin.Designer.cs">
+      <DependentUpon>RegisterAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisteredUserSearchFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisteredUserSearchFrom.Designer.cs">
+      <DependentUpon>RegisteredUserSearchFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registerlibrarian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registerlibrarian.Designer.cs">
+      <DependentUpon>Registerlibrarian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterUserForm.Designer.cs">
+      <DependentUpon>RegisterUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportingLibrarian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportingLibrarian.Designer.cs">
+      <DependentUpon>ReportingLibrarian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportingTrusteeship .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportingTrusteeship .Designer.cs">
+      <DependentUpon>ReportingTrusteeship .cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestoreBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RestoreBackup.Designer.cs">
+      <DependentUpon>RestoreBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchBook.Designer.cs">
+      <DependentUpon>SearchBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trusteeshipRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trusteeshipRegister.Designer.cs">
+      <DependentUpon>trusteeshipRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrusteeshipSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrusteeshipSearch.Designer.cs">
+      <DependentUpon>TrusteeshipSearch.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegisterUser.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserEntry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddBook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainPanel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FormRegisterPic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="LibraryDataSet.xsc">
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LibraryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LibraryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LibraryDataSet.xss">
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Login.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

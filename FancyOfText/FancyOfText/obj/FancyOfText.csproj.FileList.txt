@@ -1,0 +1,8 @@
+bin\Debug\FancyOfText.exe
+bin\Debug\FancyOfText.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FancyOfText.Form1.resources
+obj\Debug\FancyOfText.Properties.Resources.resources
+obj\Debug\FancyOfText.csproj.GenerateResource.Cache
+obj\Debug\FancyOfText.exe
+obj\Debug\FancyOfText.pdb

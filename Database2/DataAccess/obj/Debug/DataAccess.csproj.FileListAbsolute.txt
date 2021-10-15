@@ -1,0 +1,6 @@
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\DataAccess\bin\Debug\DataAccess.dll.config
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\DataAccess\bin\Debug\DataAccess.dll
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\DataAccess\bin\Debug\DataAccess.pdb
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\DataAccess\obj\Debug\DataAccess.dll
+I:\C#.Net\C# Programs\IE Programs\88.3.28\WindowsApplication4\DataAccess\obj\Debug\DataAccess.pdb

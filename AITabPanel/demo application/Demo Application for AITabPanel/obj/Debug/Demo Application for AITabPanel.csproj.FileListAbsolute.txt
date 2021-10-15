@@ -1,0 +1,6 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AITabPanel\demo application\Demo Application for AITabPanel\obj\Debug\Demo Application for AITabPanel.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AITabPanel\demo application\Demo Application for AITabPanel\obj\Debug\Demo Application for AITabPanel.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AITabPanel\demo application\Demo Application for AITabPanel\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AITabPanel\demo application\Demo Application for AITabPanel\obj\Debug\Demo_Application_for_AITabPanel.MainForm.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AITabPanel\demo application\Demo Application for AITabPanel\obj\Debug\Demo_Application_for_AITabPanel.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AITabPanel\demo application\Demo Application for AITabPanel\obj\Debug\Demo Application for AITabPanel.csproj.GenerateResource.Cache

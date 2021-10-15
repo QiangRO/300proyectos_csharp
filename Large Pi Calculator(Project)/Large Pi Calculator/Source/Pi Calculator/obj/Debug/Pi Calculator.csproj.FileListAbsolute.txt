@@ -1,0 +1,12 @@
+C:\Documents and Settings\Eshghe Ahle Bait\My Documents\Visual Studio 2008\Projects\Pi Calculator\Pi Calculator\bin\Debug\Salar_cpp_cs_PI.dll
+C:\Documents and Settings\Eshghe Ahle Bait\My Documents\Visual Studio 2008\Projects\Pi Calculator\Pi Calculator\bin\Debug\Salar_cpp_cs_PI.pdb
+C:\Documents and Settings\Eshghe Ahle Bait\My Documents\Visual Studio 2008\Projects\Pi Calculator\Pi Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eshghe Ahle Bait\My Documents\Visual Studio 2008\Projects\Pi Calculator\Pi Calculator\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Eshghe Ahle Bait\My Documents\Visual Studio 2008\Projects\Pi Calculator\Pi Calculator\obj\Debug\Pi Calculator.csproj.GenerateResource.Cache
+C:\Documents and Settings\Eshghe Ahle Bait\My Documents\Visual Studio 2008\Projects\Pi Calculator\Pi Calculator\bin\Debug\Pi Calculator By Salar Ashgi.exe
+C:\Documents and Settings\Eshghe Ahle Bait\My Documents\Visual Studio 2008\Projects\Pi Calculator\Pi Calculator\bin\Debug\Pi Calculator By Salar Ashgi.pdb
+C:\Documents and Settings\Eshghe Ahle Bait\My Documents\Visual Studio 2008\Projects\Pi Calculator\Pi Calculator\obj\Debug\SalarSoft.Properties.Resources.resources
+C:\Documents and Settings\Eshghe Ahle Bait\My Documents\Visual Studio 2008\Projects\Pi Calculator\Pi Calculator\obj\Debug\Pi Calculator By Salar Ashgi.exe
+C:\Documents and Settings\Eshghe Ahle Bait\My Documents\Visual Studio 2008\Projects\Pi Calculator\Pi Calculator\obj\Debug\Pi Calculator By Salar Ashgi.pdb
+F:\C#\Large Pi Calculator\Source\Pi Calculator\obj\Debug\Pi Calculator By Salar Ashgi.exe
+F:\C#\Large Pi Calculator\Source\Pi Calculator\obj\Debug\Pi Calculator By Salar Ashgi.pdb

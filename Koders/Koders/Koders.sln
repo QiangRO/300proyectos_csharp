@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koders", "Koders\Koders.csproj", "{7A17CF36-8E6A-41E9-8A87-37C034457ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A17CF36-8E6A-41E9-8A87-37C034457ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A17CF36-8E6A-41E9-8A87-37C034457ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A17CF36-8E6A-41E9-8A87-37C034457ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A17CF36-8E6A-41E9-8A87-37C034457ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

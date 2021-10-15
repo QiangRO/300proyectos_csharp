@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Calculator User">
+</Property><Property Name="Solution File" Value="D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Calculator User\Calculator User\Calculator User.sln">
+</Property><Property Name="User Options File" Value="D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Calculator User\Calculator User\Calculator User.suo">
+</Property><Property Name="Date" Value="2005/01/02">
+</Property><Property Name="Time" Value="23:27 ب.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Calculator User.sln" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Calculator User\Calculator User\Backup\Calculator User.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Calculator User.suo" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Calculator User\Calculator User\Backup\Calculator User.suo">
+</Event><Event ErrorLevel="0" Project="Calculator User" Source="Calculator User\Calculator User.csproj" Description="Project file successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Calculator User\Calculator User\Backup\Calculator User\Calculator User.csproj">
+</Event><Event ErrorLevel="0" Project="Calculator User" Source="Calculator User\Calculator.cs" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Calculator User\Calculator User\Backup\Calculator User\Calculator.cs">
+</Event><Event ErrorLevel="0" Project="Calculator User" Source="Calculator User\Calculator.Designer.cs" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Calculator User\Calculator User\Backup\Calculator User\Calculator.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calculator User" Source="Calculator User\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Calculator User\Calculator User\Backup\Calculator User\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Calculator User" Source="Calculator User\Calculator.resx" Description="File successfully backed up as D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\Calculator User\Calculator User\Backup\Calculator User\Calculator.resx">
+</Event><Event ErrorLevel="0" Project="Calculator User" Source="Calculator User\Calculator User.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Calculator User" Source="Calculator User\Calculator User.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Calculator User.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Calculator User.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Calculator User" Source="Calculator User\Calculator User.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

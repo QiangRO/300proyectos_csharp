@@ -1,0 +1,11 @@
+C:\Users\sina\Documents\Visual Studio 2008\Projects\WriteBat\WriteBat\bin\Debug\WriteBat.exe
+C:\Users\sina\Documents\Visual Studio 2008\Projects\WriteBat\WriteBat\bin\Debug\WriteBat.pdb
+C:\Users\sina\Documents\Visual Studio 2008\Projects\WriteBat\WriteBat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sina\Documents\Visual Studio 2008\Projects\WriteBat\WriteBat\obj\Debug\WriteBat.Properties.Resources.resources
+C:\Users\sina\Documents\Visual Studio 2008\Projects\WriteBat\WriteBat\obj\Debug\WriteBat.csproj.GenerateResource.Cache
+C:\Users\sina\Documents\Visual Studio 2008\Projects\WriteBat\WriteBat\obj\Debug\WriteBat.exe
+C:\Users\sina\Documents\Visual Studio 2008\Projects\WriteBat\WriteBat\obj\Debug\WriteBat.pdb
+C:\Users\sina\Documents\Visual Studio 2008\Projects\WriteBat\WriteBat\obj\Debug\WriteBat.frmMain.resources
+C:\Users\sina\Documents\Visual Studio 2008\Projects\WriteBat\WriteBat\obj\Debug\WriteBat.frmCode.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\18-6-88\WriteBat\WriteBat\WriteBat\obj\Debug\WriteBat.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\18-6-88\WriteBat\WriteBat\WriteBat\obj\Debug\WriteBat.pdb

@@ -1,0 +1,9 @@
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication15\WindowsApplication15\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Properties.Resources.resources
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.csproj.GenerateResource.Cache
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.pdb
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.exe
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.pdb
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.login.resources
+C:\Users\Barzin\Documents\Visual Studio 2005\Projects\C#\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.change_pass.resources

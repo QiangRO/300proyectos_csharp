@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Calculator_User.Calculator.resources
+obj\Debug\Calculator User.csproj.GenerateResource.Cache
+bin\Debug\Calculator.resx
+bin\Debug\Calculator.cs
+bin\Debug\Calculator.Designer.cs
+bin\Debug\Calculator User.dll
+bin\Debug\Calculator User.pdb
+obj\Debug\Calculator User.dll
+obj\Debug\Calculator User.pdb

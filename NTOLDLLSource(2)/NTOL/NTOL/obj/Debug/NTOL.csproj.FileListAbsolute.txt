@@ -1,0 +1,5 @@
+E:\MOJTABA\projects\NTOLDLL\NTOL\NTOL\obj\Debug\ResolveAssemblyReference.cache
+E:\MOJTABA\projects\NTOLDLL\NTOL\NTOL\bin\Debug\NTOL.dll
+E:\MOJTABA\projects\NTOLDLL\NTOL\NTOL\bin\Debug\NTOL.pdb
+E:\MOJTABA\projects\NTOLDLL\NTOL\NTOL\obj\Debug\NTOL.dll
+E:\MOJTABA\projects\NTOLDLL\NTOL\NTOL\obj\Debug\NTOL.pdb

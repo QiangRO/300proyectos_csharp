@@ -1,0 +1,8 @@
+bin\Debug\Persian Time.exe
+bin\Debug\Persian Time.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Persian_Time.Form1.resources
+obj\Debug\Persian_Time.Properties.Resources.resources
+obj\Debug\Persian Time.csproj.GenerateResource.Cache
+obj\Debug\Persian Time.exe
+obj\Debug\Persian Time.pdb

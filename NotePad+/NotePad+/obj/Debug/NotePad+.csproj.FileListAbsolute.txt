@@ -1,0 +1,10 @@
+E:\fatemeh\Programing\C# Lessons\NotePad+\NotePad+\bin\Debug\NotePad+.exe
+E:\fatemeh\Programing\C# Lessons\NotePad+\NotePad+\bin\Debug\NotePad+.pdb
+E:\fatemeh\Programing\C# Lessons\NotePad+\NotePad+\obj\Debug\ResolveAssemblyReference.cache
+E:\fatemeh\Programing\C# Lessons\NotePad+\NotePad+\obj\Debug\NotePad_.MainForm.resources
+E:\fatemeh\Programing\C# Lessons\NotePad+\NotePad+\obj\Debug\NotePad_.Properties.Resources.resources
+E:\fatemeh\Programing\C# Lessons\NotePad+\NotePad+\obj\Debug\NotePad_.TextForm.resources
+E:\fatemeh\Programing\C# Lessons\NotePad+\NotePad+\obj\Debug\NotePad+.csproj.GenerateResource.Cache
+E:\fatemeh\Programing\C# Lessons\NotePad+\NotePad+\obj\Debug\NotePad+.exe
+E:\fatemeh\Programing\C# Lessons\NotePad+\NotePad+\obj\Debug\NotePad+.pdb
+E:\fatemeh\Programing\C# Lessons\NotePad+\NotePad+\obj\Debug\NotePad_.SplashForm.resources

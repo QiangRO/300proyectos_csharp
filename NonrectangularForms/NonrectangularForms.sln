@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonrectangularForms", "NonrectangularForms.csproj", "{8D811346-7003-4CC6-9657-F7C5D7B1CC7F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8D811346-7003-4CC6-9657-F7C5D7B1CC7F}.Debug.ActiveCfg = Debug|.NET
+		{8D811346-7003-4CC6-9657-F7C5D7B1CC7F}.Debug.Build.0 = Debug|.NET
+		{8D811346-7003-4CC6-9657-F7C5D7B1CC7F}.Release.ActiveCfg = Release|.NET
+		{8D811346-7003-4CC6-9657-F7C5D7B1CC7F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+bin\Debug\DevelopedTextBox.dll
+bin\Debug\DevelopedTextBox.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DevelopedTextBox.dll
+obj\Debug\DevelopedTextBox.pdb
+D:\DevelopedTextBox\DevelopedTextBox\bin\Debug\DevelopedTextBox.tlb
+bin\Debug\DevelopedTextBox.dll.config
+E:\DevelopedTextBox\DevelopedTextBox\bin\Debug\DevelopedTextBox.tlb

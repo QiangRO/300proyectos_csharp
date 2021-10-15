@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Int_To_Str.Form1.resources
+obj\Debug\Int_To_Str.Properties.Resources.resources
+obj\Debug\Int To Str.csproj.GenerateResource.Cache
+bin\Debug\Int To Str.exe
+bin\Debug\Int To Str.pdb
+obj\Debug\Int To Str.exe
+obj\Debug\Int To Str.pdb

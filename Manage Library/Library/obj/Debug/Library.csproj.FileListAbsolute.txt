@@ -1,0 +1,10 @@
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\1170974637Library\Library\obj\Debug\Library.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\1170974637Library\Library\obj\Debug\Library.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\1170974637Library\Library\bin\Debug\Library.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\1170974637Library\Library\bin\Debug\Library.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\ADAK_C#\1170974637Library\Library\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\1170974637Library\Library\obj\Debug\Library.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\1170974637Library\Library\obj\Debug\Library.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\1170974637Library\Library\bin\Debug\Library.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\1170974637Library\Library\bin\Debug\Library.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\1170974637Library\Library\obj\Debug\ResolveAssemblyReference.cache

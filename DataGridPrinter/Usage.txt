@@ -1,0 +1,38 @@
+        private void btnPrint_Click(object sender, EventArgs e)
+        {
+            this.Cursor = Cursors.WaitCursor;
+            DataGridViewPrinter.DGVPrinter printer = new DataGridViewPrinter.DGVPrinter();
+            printer.CellAlignment = StringAlignment.Center;
+            printer.CellFormatFlags = StringFormatFlags.DirectionRightToLeft;
+
+            printer.HeaderCellAlignment = StringAlignment.Center;
+            printer.HeaderCellFormatFlags = StringFormatFlags.DirectionRightToLeft;
+            printer.PageNumberAlignment = StringAlignment.Near;
+            printer.PageNumberInHeader = true;
+            printer.PageNumberOnSeparateLine = true;
+            printer.PageNumbers = true;
+            printer.PorportionalColumns = true;
+
+            printer.Title = "›—Ê‘ ‰ﬁœÌ";
+            printer.TitleAlignment = StringAlignment.Center;
+            printer.TitleColor = Color.Blue;
+            printer.TitleFont = new Font("Arial", 14);
+            printer.TitleFormatFlags = StringFormatFlags.DirectionRightToLeft;
+
+            printer.SubTitle = " ";
+            printer.SubTitleAlignment = StringAlignment.Center;
+            printer.SubTitleColor = Color.Blue;
+            printer.SubTitleFont = new Font("Arial", 14);
+            printer.SubTitleFormatFlags = StringFormatFlags.DirectionRightToLeft;
+
+            //printer.Footer = "Footer";
+            //printer.FooterAlignment = StringAlignment.Center;
+            //printer.FooterColor = Color.Blue;
+            //printer.FooterFont = new Font("Arial", 14);
+            //printer.FooterFormatFlags = StringFormatFlags.DirectionRightToLeft;
+            //printer.FooterSpacing = 10;
+
+            printer.PrintPreviewDataGridView(dataGrid1);
+            
+            this.Cursor = Cursors.Default;
+        }

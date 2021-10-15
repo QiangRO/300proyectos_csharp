@@ -1,0 +1,9 @@
+bin\Debug\ColorFinder.exe
+bin\Debug\ColorFinder.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ColorFinder.MainForm.resources
+obj\Debug\ColorFinder.Properties.Resources.resources
+obj\Debug\ColorFinder.csproj.GenerateResource.Cache
+obj\Debug\ColorFinder.exe
+obj\Debug\ColorFinder.pdb
+obj\Debug\ColorFinder.AboutForm.resources

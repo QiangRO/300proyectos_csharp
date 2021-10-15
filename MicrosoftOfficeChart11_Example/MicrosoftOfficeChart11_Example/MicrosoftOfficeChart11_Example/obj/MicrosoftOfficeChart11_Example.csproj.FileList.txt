@@ -1,0 +1,17 @@
+bin\Debug\MicrosoftOfficeChart11_Example.exe
+bin\Debug\MicrosoftOfficeChart11_Example.pdb
+bin\Debug\Interop.MSComctlLib.dll
+bin\Debug\Interop.OWC11.dll
+bin\Debug\AxInterop.OWC11.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.MSComctlLib.dll
+obj\Debug\Interop.OWC11.dll
+obj\Debug\AxInterop.OWC11.dll
+obj\Debug\MicrosoftOfficeChart11_Example.csproj.ResolveComReference.cache
+obj\Debug\MicrosoftOfficeChart11_Example.ChartForm.resources
+obj\Debug\MicrosoftOfficeChart11_Example.Properties.Resources.resources
+obj\Debug\MicrosoftOfficeChart11_Example.csproj.GenerateResource.Cache
+obj\Debug\MicrosoftOfficeChart11_Example.exe
+obj\Debug\MicrosoftOfficeChart11_Example.pdb
+bin\Debug\Interop.Microsoft.Office.Core.dll
+obj\Debug\Interop.Microsoft.Office.Core.dll

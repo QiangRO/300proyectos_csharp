@@ -1,0 +1,16 @@
+F:\project 2005\Address Book\Address Book\obj\Debug\ResolveAssemblyReference.cache
+F:\project 2005\Address Book\Address Book\obj\Debug\Address_Book.Form1.resources
+F:\project 2005\Address Book\Address Book\obj\Debug\Address_Book.Properties.Resources.resources
+F:\project 2005\Address Book\Address Book\obj\Debug\Address Book.csproj.GenerateResource.Cache
+F:\project 2005\Address Book\Address Book\bin\Debug\Address Book.exe
+F:\project 2005\Address Book\Address Book\bin\Debug\Address Book.pdb
+F:\project 2005\Address Book\Address Book\obj\Debug\Address Book.exe
+F:\project 2005\Address Book\Address Book\obj\Debug\Address Book.pdb
+F:\project 2005\amoozesh ta eshteghal\Address Book(for 1 address)\Address Book\obj\Debug\Address Book.exe
+F:\project 2005\amoozesh ta eshteghal\Address Book(for 1 address)\Address Book\obj\Debug\Address Book.pdb
+F:\project 2005\amoozesh ta eshteghal\Address Book(for 1 address)\Address Book\bin\Debug\Address Book.exe
+F:\project 2005\amoozesh ta eshteghal\Address Book(for 1 address)\Address Book\bin\Debug\Address Book.pdb
+F:\project 2005\amoozesh ta eshteghal\Address Book(for 1 address)\Address Book\obj\Debug\ResolveAssemblyReference.cache
+F:\project 2005\amoozesh ta eshteghal\Address Book(for 1 address)\Address Book\obj\Debug\Address_Book.Form1.resources
+F:\project 2005\amoozesh ta eshteghal\Address Book(for 1 address)\Address Book\obj\Debug\Address_Book.Properties.Resources.resources
+F:\project 2005\amoozesh ta eshteghal\Address Book(for 1 address)\Address Book\obj\Debug\Address Book.csproj.GenerateResource.Cache

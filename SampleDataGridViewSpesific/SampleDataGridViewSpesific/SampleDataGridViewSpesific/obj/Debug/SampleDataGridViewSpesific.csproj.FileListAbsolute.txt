@@ -1,0 +1,8 @@
+D:\VS 2008\ClassDataGrid\SampleDataGridViewSpesific\SampleDataGridViewSpesific\bin\Debug\SampleDataGridViewSpesific.exe
+D:\VS 2008\ClassDataGrid\SampleDataGridViewSpesific\SampleDataGridViewSpesific\bin\Debug\SampleDataGridViewSpesific.pdb
+D:\VS 2008\ClassDataGrid\SampleDataGridViewSpesific\SampleDataGridViewSpesific\obj\Debug\ResolveAssemblyReference.cache
+D:\VS 2008\ClassDataGrid\SampleDataGridViewSpesific\SampleDataGridViewSpesific\obj\Debug\SampleDataGridViewSpesific.Form1.resources
+D:\VS 2008\ClassDataGrid\SampleDataGridViewSpesific\SampleDataGridViewSpesific\obj\Debug\SampleDataGridViewSpesific.Properties.Resources.resources
+D:\VS 2008\ClassDataGrid\SampleDataGridViewSpesific\SampleDataGridViewSpesific\obj\Debug\SampleDataGridViewSpesific.csproj.GenerateResource.Cache
+D:\VS 2008\ClassDataGrid\SampleDataGridViewSpesific\SampleDataGridViewSpesific\obj\Debug\SampleDataGridViewSpesific.exe
+D:\VS 2008\ClassDataGrid\SampleDataGridViewSpesific\SampleDataGridViewSpesific\obj\Debug\SampleDataGridViewSpesific.pdb

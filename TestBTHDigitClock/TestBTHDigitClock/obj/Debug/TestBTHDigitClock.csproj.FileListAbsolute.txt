@@ -1,0 +1,9 @@
+C:\Download Data\Download\Download Last\BTHDigitClock\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\TestBTHDigitClock.exe
+C:\Download Data\Download\Download Last\BTHDigitClock\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\TestBTHDigitClock.pdb
+C:\Download Data\Download\Download Last\BTHDigitClock\TestBTHDigitClock\TestBTHDigitClock\bin\Debug\TestBTHDigitClock.exe
+C:\Download Data\Download\Download Last\BTHDigitClock\TestBTHDigitClock\TestBTHDigitClock\bin\Debug\TestBTHDigitClock.pdb
+C:\Download Data\Download\Download Last\BTHDigitClock\TestBTHDigitClock\TestBTHDigitClock\bin\Debug\BthDigitClock.pdb
+C:\Download Data\Download\Download Last\BTHDigitClock\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Download Data\Download\Download Last\BTHDigitClock\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\TestBTHDigitClock.Form1.resources
+C:\Download Data\Download\Download Last\BTHDigitClock\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\TestBTHDigitClock.Properties.Resources.resources
+C:\Download Data\Download\Download Last\BTHDigitClock\TestBTHDigitClock\TestBTHDigitClock\obj\Debug\TestBTHDigitClock.csproj.GenerateResource.Cache

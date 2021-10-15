@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Neon_Clock__CS_.Form1.resources
+obj\Debug\Neon_Clock__CS_.Properties.Resources.resources
+obj\Debug\Neon Clock (CS).csproj.GenerateResource.Cache
+bin\Debug\Neon Clock (CS).exe
+bin\Debug\Neon Clock (CS).pdb
+obj\Debug\Neon Clock (CS).exe
+obj\Debug\Neon Clock (CS).pdb

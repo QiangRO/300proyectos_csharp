@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link href="styl.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body topmargin="0" bottommargin="0" class="LeftFrmText" dir="rtl">
+<table width="1024" border="0">
+<tr>
+<td valign="top" style="color:#000099;font-size:14px;line-height:21px">
+<p dir="ltr" align="center" style="font-family:'Times New Roman', Times, serif;font-size:36px;font-weight:bold">Threading in C#</p>
+<p dir="ltr" align="center" style="font-family:'Times New Roman', Times, serif;font-size:18px">
+Joseph Albahari<br />
+© 2006, O'Reilly Media, Inc<br />
+<p dir="rtl" align="center" style="font-family:'Times New Roman', Times, serif;font-size:18px">ترجمه : شهاب خاکساری نژاد&nbsp;&nbsp;&nbsp;&nbsp; Email : noxcupid@yahoo.com</p>
+</p><br /><br /><br />
+<p class="parafStart">سخن مترجم :</p>
+ با سلام حضور خوانندگان محترم این مقاله
+مطمئناً خوانندگان این مقاله و در کل مخاطبان مقالات تخصصی کامپیوتری دارای سطوح دانش متفاوتی از علوم کامپیوتری هستند، از طرفی هدف مطاله آنها از این مقالات نیز متفاوت است.
+لیکن در این میان چیزی که به نظر این بنده حقیر مهمتر و قابل توجه است این است که گر چه ممکن است منظور نویسندگان یک اثر و برداشت مخاطبان آن اثر متفاوت باشد- که منطقاً هم باید باشد- لیکن در این میان دانشی که منتقل شده است ( با سطوح متفاوت ) با ارزشتر است.
+بدون هر گونه قضاوت یکطرفانه و برخورد احساسی شما بهتر از من می دانید که مطالعه و درک بهتر متون کامپیوتری، خاصه متون تخصصی ، نیاز به داشتن مهارت در آشنایی با زبان انگلیسی را بیش از هر چیز میطلبد، لیکن نظر شخصی من این است که دوستان نسخه زبان اصلی این مقاله را مطالعه کنند.
+از طرفی بی شک برنامه نویسی که برنامه موازی می نویسد آن هم با #C نمی تواند با انگلیسی آشنا نباشد.
+بنابراین بدون ذکر آنچه در بالا  ذکر شد نیز بار به منزل می رسد. در آخر گر چه احتمالاً ترجمه این متن چندان گره از کار کسی باز نکند لیکن هدف من از ترجمه آن آشنا کردن افرادیست که تشنه یادگیری هدفمند هستند.
+از آنجا که بنده نه برنامه نویس حرفه ای ، نه مترجم حرفه ای هستم و نه اصول مستند سازی را درست میدانم و همچنین زبان فارسی را هم آنگونه که حق مطلب ادا شود خوب نمیدانم ، از پیش برای خود به خاطر جسارت نسبت به تمامی کوچک و بزرگان این عرصه ها طلب مغفرت میکنم.
+<p class="parafStart">نکته : </p>
+کدهای این مقاله را با NET Framework 2. تست کنید، یعنی اگر IDE شما Visual Studio است ، از version 2005 استفاده کنید. Threading در framework های 1 و 2 یه نموره با هم توفیر داره.
+در ضمن اگه کسی دنبال IDE سبک و موثر میگرده تو اینترنت دنبال SharpDevelop 2.0 بگرده. البته پر واضح است که این فقط یک IDE است و NET framework 2. را لازم دارد.
+در ضمن همانگونه که بهتر از من می دانید بسیاری از مفاهیم و مطالب کامپیوتری در ارتباط مستقیم و یا غیر مستقیم با یکدیگرند لذا پیشنهاد میکنم قبل از مطالعه این مقاله با مفاهیم سیستم عامل آشنا شوید.همچنین اگر با مفاهیم شی گرایی و برنامه نویسی با NET. و زبان #C آشنایی ندارید ، احتمالاً این مقاله برای شما چندان که حق مطلب ادا شود مفید واقع نخواهد شد .
+<br/><br/><br/><br/><br/>
+<a href="http://www.albahari.com/threading/" target="_top"><p dir="ltr" align="center" style="font-family:'Times New Roman', Times, serif;font-size:18px">
+نسخه انگلیسی&nbsp;&nbsp;&nbsp;URI: http://www.albahari.com/threading/</p></a>
+</td>
+<td width="5"></td>
+<td width="2" valign="top">
+<table width="2" border="0" cellspacing="0" cellpadding="0" >
+  <tr>
+    <td background="topborder.jpg" height="10"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ccccff" height="1250"></td>
+  </tr>
+  <tr>
+    <td background="bottonborder.jpg" height="10"></td>
+  </tr>
+</table>
+
+</td>
+<td width="5"></td>
+<td width="258" valign="top">
+<p align="center" style="font-family:'Times New Roman', Times, serif;font-size:18px;font-weight:bold">فهرست مطالب</p>
+<p align="right" style="font-family:'Times New Roman', Times, serif;font-size:16px;font-weight:bold">بخش اول : شروع<br />
+<a href="1_1.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;نگاه کلی و مفاهیم</a><br />
+<a href="1_2.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;نخ کشی چگونه کار می کند</a><br />
+<a href="1_2.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;نخها در مقابل پردازه ها</a><br />
+<a href="1_2.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;چه موقع از نخها استفاده کنیم</a><br />
+<a href="1_2.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;چه موقع از نخها استفاده نکنیم</a><br />
+<a href="1_6.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;تولید و راه اندازی نخها</a><br />
+<a href="1_7.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;فرستادن داده به تابع ThreadStart</a><br />
+<a href="1_8.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;نامگذاری نخها</a><br />
+<a href="1_9.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;نخهای پیش زمینه و پس زمینه</a><br />
+<a href="1_10.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;اولویت نخ</a><br />
+<a href="1_11.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;مدیریت استثناء</a><br />
+بخش دوم : همزمانی مقدماتی<br />
+<a href="2_1.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ملزومات همزمانی</a><br />
+<a href="2_2.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;بلوکه کردن</a><br />
+<a href="2_3.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;خوابیدن و ریسندگی</a><br />
+<a href="2_4.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;الحاق یک نخ</a><br />
+<a href="2_5.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;قفل گذاری و امنیت نخ</a><br />
+<a href="2_6.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;انتخاب شیء همزمانی</a><br />
+<a href="2_7.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;قفل گذاری لانه ای</a><br />
+<a href="2_8.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;چه موقع قفل گذاری کنیم</a><br />
+<a href="2_9.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ملاحضات عملکرد</a><br />
+<a href="2_10.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;امنیت نخ</a><br />
+<a href="2_11.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;وقفه و انصراف</a><br />
+<a href="2_14.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;وضعیت نخ</a><br />
+<a href="2_15.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;دستگیره های کنترل انتظار</a><br />
+<a href="2_16.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AutoResetEvent</a><br />
+<a href="2_17.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ManualResetEvent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><br />
+<a href="2_18.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mutex&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><br />
+<a href="2_19.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Semaphore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><br />
+<a href="2_20.htm" class="lnks" dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SignalAndWait , WaitAny&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>and WaitAll&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><br />
+<a href="2_21.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;متون همزمانی</a><br />
+<a href="2_22.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;درون روی</a><br />
+بخش سوم : بکارگیری نخها<br />
+<a href="3_1.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;آپارتمانها و فرمهای ویندوز</a><br />
+<a href="3_2.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;تعیین یک مدل آپارتمانی</a><br />
+<a href="3_3.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Control.Invoke</a><br />
+<a href="3_4.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;کارگر پس زمینه</a><br />
+<a href="3_5.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;کلاس ReaderWriterLock</a><br />
+<a href="3_6.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;استخر نخها</a><br />
+<a href="3_7.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;نماینده های ناهمزمان</a><br />
+<a href="3_8.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;متدهای ناهمزمان از پیش تعریف شده</a><br />
+<a href="3_9.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;تایمرها</a><br />
+<a href="3_10.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;انباره محلی</a><br />
+بخش چهارم : موضوعات پیشرفته<br />
+<a href="4_1.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;همزمانی غیربلوکه ای</a><br />
+<a href="4_2.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;اتمی عمل کردن و قرار گرفتن <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; در کنار هم با الگوی همزمانی</a><br />
+<a href="4_3.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;حصارهای حافظه و فراریت</a><br />
+<a href="4_4.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wait و Pulse</a><br />
+<a href="4_4.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;تعاریف Wait و Pulse</a><br />
+<a href="4_4.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;چگونه از Wait و Pulse استفاده کنیم</a><br />
+<a href="4_4.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wait و Pulse تعمیم یافته</a><br />
+<a href="4_8.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;صف تولید کننده/مصرف کننده</a><br />
+<a href="4_9.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;استفاده از زمان timeout برای Wait</a><br />
+<a href="4_10.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;رقابتها و تصدیق</a><br />
+<a href="4_11.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;شبیه سازی دستگیره های کنترل انتظار</a><br />
+<a href="4_12.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wait  و   Pulse در مقابل دستگیره های <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; کنترل انتظار</a><br />
+<a href="4_13.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;انصراف از نخها</a><br />
+<a href="4_14.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;درآمیختگی با Thread.Abort</a><br />
+<a href="4_15.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;پایان دادن به دامنه های برنامه</a><br />
+<a href="4_16.htm" class="lnks">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;پایان دادن به پردازه ها</a><br />
+</p>
+</td>
+</tr>
+</table>
+</body>
+</html>

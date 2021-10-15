@@ -1,0 +1,16 @@
+bin\Debug\Seven.exe
+bin\Debug\Seven.pdb
+bin\Debug\DevComponents.DotNetBar.dll
+bin\Debug\DevExpress.Utils3.dll
+bin\Debug\dotnetCharting.WinForms.dll
+bin\Debug\PieChart.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Seven.Form1.resources
+obj\Debug\Seven.Properties.Resources.resources
+obj\Debug\Seven.csproj.GenerateResource.Cache
+obj\Debug\Seven.exe.licenses
+obj\Debug\Seven.exe
+obj\Debug\Seven.pdb
+bin\Debug\FarsiLibrary.Win.dll
+bin\Debug\FarsiLibrary.Resources.dll
+bin\Debug\FarsiLibrary.Utils.dll

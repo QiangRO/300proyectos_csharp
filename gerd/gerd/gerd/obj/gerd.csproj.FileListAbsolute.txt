@@ -1,0 +1,16 @@
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\gerd\gerd\bin\Debug\gerd.exe
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\gerd\gerd\bin\Debug\gerd.pdb
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\gerd.Form1.resources
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\gerd.Properties.Resources.resources
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\gerd.csproj.GenerateResource.Cache
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\gerd.exe
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\gerd.pdb
+C:\majid\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\gerd.exe
+C:\majid\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\ResolveAssemblyReference.cache
+C:\majid\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\gerd.Form1.resources
+C:\majid\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\gerd.Properties.Resources.resources
+C:\majid\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\gerd.csproj.GenerateResource.Cache
+C:\majid\My Documents\Visual Studio 2005\Projects\gerd\gerd\bin\Debug\gerd.exe
+C:\majid\My Documents\Visual Studio 2005\Projects\gerd\gerd\bin\Debug\gerd.pdb
+C:\majid\My Documents\Visual Studio 2005\Projects\gerd\gerd\obj\Debug\gerd.pdb

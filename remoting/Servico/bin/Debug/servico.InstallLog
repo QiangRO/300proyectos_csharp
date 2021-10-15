@@ -1,0 +1,131 @@
+﻿Installing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Installing service Servico...
+Service Servico has been successfully installed.
+Creating EventLog source Servico in log Application...
+Committing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Uninstalling assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Removing EventLog source Servico.
+Service Servico is being removed from the system...
+Service Servico was successfully removed from the system.
+Installing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Installing service Servico...
+Service Servico has been successfully installed.
+Creating EventLog source Servico in log Application...
+Committing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Uninstalling assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Removing EventLog source Servico.
+Service Servico is being removed from the system...
+Service Servico was successfully removed from the system.
+Installing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Installing service Servico...
+Service Servico has been successfully installed.
+Creating EventLog source Servico in log Application...
+Committing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Uninstalling assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Removing EventLog source Servico.
+Service Servico is being removed from the system...
+Service Servico was successfully removed from the system.
+Installing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Installing service Servico...
+Service Servico has been successfully installed.
+Creating EventLog source Servico in log Application...
+Committing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Uninstalling assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Removing EventLog source Servico.
+Attempt to stop service Servico.
+Service Servico is being removed from the system...
+Service Servico was successfully removed from the system.
+Installing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Installing service Servico...
+Creating EventLog source Servico in log Application...
+Rolling back assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Restoring event log to previous state for source Servico.
+Installing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Installing service Servico...
+Service Servico has been successfully installed.
+Creating EventLog source Servico in log Application...
+Committing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Uninstalling assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Removing EventLog source Servico.
+Service Servico is being removed from the system...
+Service Servico was successfully removed from the system.
+Installing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Installing service Servico...
+Service Servico has been successfully installed.
+Creating EventLog source Servico in log Application...
+Committing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Uninstalling assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Removing EventLog source Servico.
+Service Servico is being removed from the system...
+Service Servico was successfully removed from the system.
+Installing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog
+Installing service Servico...
+Service Servico has been successfully installed.
+Creating EventLog source Servico in log Application...
+Committing assembly 'd:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe'.
+Affected parameters are:
+   assemblypath = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.exe
+   logfile = d:\meus documentos\tiago\distribuidos\trabalho\remoting\servico\bin\debug\servico.InstallLog

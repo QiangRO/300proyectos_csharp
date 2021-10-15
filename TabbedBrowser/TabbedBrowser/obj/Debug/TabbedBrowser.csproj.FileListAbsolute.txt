@@ -1,0 +1,18 @@
+C:\Documents and Settings\Syed\Local Settings\Application Data\Temporary Projects\TabbedBrowser\bin\Debug\TabbedBrowser.exe
+C:\Documents and Settings\Syed\Local Settings\Application Data\Temporary Projects\TabbedBrowser\bin\Debug\TabbedBrowser.pdb
+C:\Documents and Settings\Syed\Local Settings\Application Data\Temporary Projects\TabbedBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Syed\Local Settings\Application Data\Temporary Projects\TabbedBrowser\obj\Debug\TabbedBrowser.frmBrowser.resources
+C:\Documents and Settings\Syed\Local Settings\Application Data\Temporary Projects\TabbedBrowser\obj\Debug\TabbedBrowser.Properties.Resources.resources
+C:\Documents and Settings\Syed\Local Settings\Application Data\Temporary Projects\TabbedBrowser\obj\Debug\TabbedBrowser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Syed\Local Settings\Application Data\Temporary Projects\TabbedBrowser\obj\Debug\TabbedBrowser.exe
+C:\Documents and Settings\Syed\Local Settings\Application Data\Temporary Projects\TabbedBrowser\obj\Debug\TabbedBrowser.pdb
+C:\Documents and Settings\Syed\Desktop\TabbedBrowser\TabbedBrowser\obj\Debug\TabbedBrowser.exe
+C:\Documents and Settings\Syed\Desktop\TabbedBrowser\TabbedBrowser\obj\Debug\TabbedBrowser.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\TabbedBrowser\TabbedBrowser\obj\Debug\TabbedBrowser.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\TabbedBrowser\TabbedBrowser\obj\Debug\TabbedBrowser.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\TabbedBrowser\TabbedBrowser\bin\Debug\TabbedBrowser.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\TabbedBrowser\TabbedBrowser\bin\Debug\TabbedBrowser.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\TabbedBrowser\TabbedBrowser\obj\Debug\ResolveAssemblyReference.cache
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\TabbedBrowser\TabbedBrowser\obj\Debug\TabbedBrowser.frmBrowser.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\TabbedBrowser\TabbedBrowser\obj\Debug\TabbedBrowser.Properties.Resources.resources
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\C#WEB2\TabbedBrowser\TabbedBrowser\obj\Debug\TabbedBrowser.csproj.GenerateResource.Cache

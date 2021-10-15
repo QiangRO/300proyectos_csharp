@@ -1,0 +1,8 @@
+obj\Debug\Address Book.exe
+obj\Debug\Address Book.pdb
+bin\Debug\Address Book.exe
+bin\Debug\Address Book.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Address_Book.Form1.resources
+obj\Debug\Address_Book.Properties.Resources.resources
+obj\Debug\Address Book.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Graphic_CS.Form1.resources
+obj\Debug\Graphic_CS.Properties.Resources.resources
+obj\Debug\Graphic CS.csproj.GenerateResource.Cache
+bin\Debug\Graphic CS.exe
+bin\Debug\Graphic CS.pdb
+obj\Debug\Graphic CS.exe
+obj\Debug\Graphic CS.pdb
+bin\Release\Graphic CS.exe
+bin\Release\Graphic CS.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Graphic_CS.Form1.resources
+obj\Release\Graphic_CS.Properties.Resources.resources
+obj\Release\Graphic CS.csproj.GenerateResource.Cache
+obj\Release\Graphic CS.exe
+obj\Release\Graphic CS.pdb

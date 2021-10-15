@@ -1,0 +1,12 @@
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\7-Zip\7-Zip\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\7-Zip\7-Zip\obj\Debug\_7_Zip.Main.resources
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\7-Zip\7-Zip\obj\Debug\_7_Zip.Properties.Resources.resources
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\7-Zip\7-Zip\obj\Debug\7-Zip.csproj.GenerateResource.Cache
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\7-Zip\7-Zip\bin\Debug\7-Zip.exe
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\7-Zip\7-Zip\bin\Debug\7-Zip.pdb
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\7-Zip\7-Zip\obj\Debug\7-Zip.exe
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\7-Zip\7-Zip\obj\Debug\7-Zip.pdb
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\18-6-88\7-Zip\7-Zip\obj\Debug\7-Zip.exe
+D:\Drive[F]\PROGRAMS\C#.Net\C# Programs\IE Programs\18-6-88\7-Zip\7-Zip\obj\Debug\7-Zip.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\7-Zip\7-Zip\obj\Debug\7-Zip.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\7-Zip\7-Zip\obj\Debug\7-Zip.pdb

@@ -1,0 +1,9 @@
+C:\Documents and Settings\sa\My Documents\Visual Studio 2008\Projects\DrawCurve\DrawCurve\bin\Debug\DrawCurve.exe
+C:\Documents and Settings\sa\My Documents\Visual Studio 2008\Projects\DrawCurve\DrawCurve\bin\Debug\DrawCurve.pdb
+C:\Documents and Settings\sa\My Documents\Visual Studio 2008\Projects\DrawCurve\DrawCurve\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sa\My Documents\Visual Studio 2008\Projects\DrawCurve\DrawCurve\obj\Debug\DrawCurve.Form1.resources
+C:\Documents and Settings\sa\My Documents\Visual Studio 2008\Projects\DrawCurve\DrawCurve\obj\Debug\DrawCurve.Properties.Resources.resources
+C:\Documents and Settings\sa\My Documents\Visual Studio 2008\Projects\DrawCurve\DrawCurve\obj\Debug\DrawCurve.csproj.GenerateResource.Cache
+C:\Documents and Settings\sa\My Documents\Visual Studio 2008\Projects\DrawCurve\DrawCurve\obj\Debug\DrawCurve.exe
+C:\Documents and Settings\sa\My Documents\Visual Studio 2008\Projects\DrawCurve\DrawCurve\obj\Debug\DrawCurve.pdb
+C:\Documents and Settings\sa\My Documents\Visual Studio 2008\Projects\DrawCurve\DrawCurve\obj\Debug\DrawCurve.Form2.resources

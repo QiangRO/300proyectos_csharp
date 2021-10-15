@@ -1,0 +1,8 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\bin\Debug\Transparent_layer.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\bin\Debug\Transparent_layer.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.Main.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\ARGB_Layers.csproj.GenerateResource.Cache

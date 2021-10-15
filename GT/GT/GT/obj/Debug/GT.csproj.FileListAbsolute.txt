@@ -1,0 +1,11 @@
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\obj\Debug\GT.Main.resources
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\obj\Debug\GT.Properties.Resources.resources
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\obj\Debug\GT.csproj.GenerateResource.Cache
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\bin\Debug\GT.exe
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\bin\Debug\GT.pdb
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\bin\Debug\GoogleTranslateAPI.pdb
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\bin\Debug\GoogleTranslateAPI.xml
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\obj\Debug\GT.exe
+C:\Users\Ali\Documents\Visual Studio 2008\Projects\GT\GT\obj\Debug\GT.pdb

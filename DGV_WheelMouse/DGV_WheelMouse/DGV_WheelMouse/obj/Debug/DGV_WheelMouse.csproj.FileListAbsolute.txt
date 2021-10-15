@@ -1,0 +1,8 @@
+D:\VS 2008\DGV_WheelMouse\DGV_WheelMouse\bin\Debug\DGV_WheelMouse.exe
+D:\VS 2008\DGV_WheelMouse\DGV_WheelMouse\bin\Debug\DGV_WheelMouse.pdb
+D:\VS 2008\DGV_WheelMouse\DGV_WheelMouse\obj\Debug\ResolveAssemblyReference.cache
+D:\VS 2008\DGV_WheelMouse\DGV_WheelMouse\obj\Debug\DGV_WheelMouse.Form1.resources
+D:\VS 2008\DGV_WheelMouse\DGV_WheelMouse\obj\Debug\DGV_WheelMouse.Properties.Resources.resources
+D:\VS 2008\DGV_WheelMouse\DGV_WheelMouse\obj\Debug\DGV_WheelMouse.csproj.GenerateResource.Cache
+D:\VS 2008\DGV_WheelMouse\DGV_WheelMouse\obj\Debug\DGV_WheelMouse.exe
+D:\VS 2008\DGV_WheelMouse\DGV_WheelMouse\obj\Debug\DGV_WheelMouse.pdb

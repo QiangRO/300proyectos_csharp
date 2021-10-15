@@ -1,0 +1,12 @@
+obj\Debug\FormManagement.exe
+obj\Debug\FormManagement.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FormManagement.BaseForm.resources
+obj\Debug\FormManagement.MainForm.resources
+obj\Debug\FormManagement.Properties.Resources.resources
+obj\Debug\FormManagement.csproj.GenerateResource.Cache
+bin\Debug\FormManagement.exe
+bin\Debug\FormManagement.pdb
+obj\Debug\FormManagement.Child1.resources
+obj\Debug\FormManagement.Child2.resources
+obj\Debug\FormManagement.Child3.resources

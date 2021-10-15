@@ -1,0 +1,8 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AddToDic\AddToDic\obj\Debug\AddToDic.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AddToDic\AddToDic\obj\Debug\AddToDic.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AddToDic\AddToDic\bin\Debug\AddToDic.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AddToDic\AddToDic\bin\Debug\AddToDic.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AddToDic\AddToDic\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AddToDic\AddToDic\obj\Debug\AddToDic.AddOneByOne.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AddToDic\AddToDic\obj\Debug\AddToDic.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\AddToDic\AddToDic\obj\Debug\AddToDic.csproj.GenerateResource.Cache
